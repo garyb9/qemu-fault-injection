@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_exti.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2179" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/target-arm/arm_ldst.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="972" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="369" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2555" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3570" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="91000" topLine="2492" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/button/main.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="588" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/include/qemu/timer.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="347" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/button_int/main.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21433" topLine="572" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3512" topLine="245" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/include/glib-compat.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="464" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/timer/main.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4675" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/common/myprintk.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="820" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/target-m68k/translate.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4112" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/target-arm/translate.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2009" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/target-arm/translate.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2771" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/printf_demo/main.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="280" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/uart_echo/main.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="375" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/common/myprintk.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="213" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="51535" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/include/crypto/hash.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4346" topLine="114" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/common/stm32_p103.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="210" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/common/stm32_p103.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="596" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/uart_echo_int/main.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="387" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/qemu_test/main.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="275" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="457" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/uart_repeat_write/main.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="343" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/crypto/hash.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="770" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/crypto/init.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/hw/arm/stm32_p103.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1111" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/smartlock/main.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="169" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="28782" topLine="670" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/uart_repeat_write_int/main.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="458" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/smartlock_a/main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3664" topLine="131" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36834" topLine="1075" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/tests/test-crypto-hash.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="818" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/smartlock_a/stm32f10x_conf.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1864" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/include/exec/exec-all.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2268" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/include/exec/gen-icount.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1813" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/target-moxie/translate.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4601" topLine="143" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/demos/freertos_semaphore1/stm32f10x_conf.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1381" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="../stm32_p103_demos/libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_spi.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="779" topLine="264" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/softmmu_template.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5516" topLine="327" />
+		</Cursor>
+	</File>
+	<File name="../qemu_stm32/translate-all.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="47107" topLine="1574" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

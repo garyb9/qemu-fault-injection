@@ -1,0 +1,4443 @@
+killall -q qemu-system-arm
+makefile:144: recipe for target 'smartlock_a_QEMURUN_PTY' failed
+../qemu_stm32/arm-softmmu/qemu-system-arm -M stm32-p103 -kernel demos/smartlock_a/main.bin -serial pty
+char device redirected to /dev/pts/2 (label serial0)
+VNC server running on `127.0.0.1:5900'
+instruction_count = 1
+insn thumb: 0x00002100 
+num_insns: 0
+instruction_count = 2
+insn thumb: 0x0000E003 
+num_insns: 1
+instruction_count = 3
+insn thumb: 0x00004809 
+num_insns: 0
+instruction_count = 4
+insn thumb: 0x00004B0A 
+num_insns: 1
+instruction_count = 5
+insn thumb: 0x00001842 
+num_insns: 2
+instruction_count = 6
+insn thumb: 0x0000429A 
+num_insns: 3
+instruction_count = 7
+insn thumb: 0x0000D3F6 
+num_insns: 4
+instruction_count = 8
+insn thumb: 0x00004B0A 
+num_insns: 0
+instruction_count = 9
+insn thumb: 0x0000585B 
+num_insns: 1
+instruction_count = 10
+insn thumb: 0x00005043 
+num_insns: 2
+instruction_count = 11
+insn thumb: 0x00003104 
+num_insns: 3
+instruction_count = 12
+insn thumb: 0x00004809 
+num_insns: 4
+instruction_count = 13
+insn thumb: 0x00004B0A 
+num_insns: 5
+instruction_count = 14
+insn thumb: 0x00001842 
+num_insns: 6
+instruction_count = 15
+insn thumb: 0x0000429A 
+num_insns: 7
+instruction_count = 16
+insn thumb: 0x0000D3F6 
+num_insns: 8
+instruction_count = 17
+insn thumb: 0x00004A09 
+num_insns: 0
+instruction_count = 18
+insn thumb: 0x0000E002 
+num_insns: 1
+instruction_count = 19
+insn thumb: 0x00004B07 
+num_insns: 0
+instruction_count = 20
+insn thumb: 0x0000429A 
+num_insns: 1
+instruction_count = 21
+insn thumb: 0x0000D3F9 
+num_insns: 2
+instruction_count = 22
+insn thumb: 0x0000F7FA 
+instruction count = 23
+insn thumb 2: 0x0000FB23 *********
+num_insns: 0
+instruction_count = 24
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 25
+insn thumb: 0x0000AF00 
+num_insns: 1
+instruction_count = 26
+insn thumb: 0x00004A15 
+num_insns: 2
+instruction_count = 27
+insn thumb: 0x00004B15 
+num_insns: 3
+instruction_count = 28
+insn thumb: 0x0000681B 
+num_insns: 4
+instruction_count = 29
+insn thumb: 0x0000F043 
+instruction count = 30
+insn thumb 2: 0x00000301 *********
+num_insns: 5
+instruction_count = 31
+insn thumb: 0x00006013 
+num_insns: 6
+instruction_count = 32
+insn thumb: 0x00004912 
+num_insns: 7
+instruction_count = 33
+insn thumb: 0x00004B12 
+num_insns: 8
+instruction_count = 34
+insn thumb: 0x0000685A 
+num_insns: 9
+instruction_count = 35
+insn thumb: 0x00004B12 
+num_insns: 10
+instruction_count = 36
+insn thumb: 0x00004013 
+num_insns: 11
+instruction_count = 37
+insn thumb: 0x0000604B 
+num_insns: 12
+instruction_count = 38
+insn thumb: 0x00004A0F 
+num_insns: 13
+instruction_count = 39
+insn thumb: 0x00004B0F 
+num_insns: 14
+instruction_count = 40
+insn thumb: 0x0000681B 
+num_insns: 15
+instruction_count = 41
+insn thumb: 0x0000F023 
+instruction count = 42
+insn thumb 2: 0x00007384 *********
+num_insns: 16
+instruction_count = 43
+insn thumb: 0x0000F423 
+instruction count = 44
+insn thumb 2: 0x00003380 *********
+num_insns: 17
+instruction_count = 45
+insn thumb: 0x00006013 
+num_insns: 18
+instruction_count = 46
+insn thumb: 0x00004A0B 
+num_insns: 19
+instruction_count = 47
+insn thumb: 0x00004B0B 
+num_insns: 20
+instruction_count = 48
+insn thumb: 0x0000681B 
+num_insns: 21
+instruction_count = 49
+insn thumb: 0x0000F423 
+instruction count = 50
+insn thumb 2: 0x00002380 *********
+num_insns: 22
+instruction_count = 51
+insn thumb: 0x00006013 
+num_insns: 23
+instruction_count = 52
+insn thumb: 0x00004A08 
+num_insns: 24
+instruction_count = 53
+insn thumb: 0x00004B08 
+num_insns: 25
+instruction_count = 54
+insn thumb: 0x0000685B 
+num_insns: 26
+instruction_count = 55
+insn thumb: 0x0000F423 
+instruction count = 56
+insn thumb 2: 0x000003FE *********
+num_insns: 27
+instruction_count = 57
+insn thumb: 0x00006053 
+num_insns: 28
+instruction_count = 58
+insn thumb: 0x00004B05 
+num_insns: 29
+instruction_count = 59
+insn thumb: 0x0000F44F 
+instruction count = 60
+insn thumb 2: 0x0000021F *********
+num_insns: 30
+instruction_count = 61
+insn thumb: 0x0000609A 
+num_insns: 31
+instruction_count = 62
+insn thumb: 0x0000F000 
+instruction count = 63
+insn thumb 2: 0x0000F878 *********
+num_insns: 32
+instruction_count = 64
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 65
+insn thumb: 0x0000AF00 
+num_insns: 1
+instruction_count = 66
+insn thumb: 0x0000F000 
+instruction count = 67
+insn thumb 2: 0x0000F802 *********
+num_insns: 2
+instruction_count = 68
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 69
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 70
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 71
+insn thumb: 0x00002300 
+num_insns: 3
+instruction_count = 72
+insn thumb: 0x0000607B 
+num_insns: 4
+instruction_count = 73
+insn thumb: 0x00002300 
+num_insns: 5
+instruction_count = 74
+insn thumb: 0x0000603B 
+num_insns: 6
+instruction_count = 75
+insn thumb: 0x00004A3A 
+num_insns: 7
+instruction_count = 76
+insn thumb: 0x00004B39 
+num_insns: 8
+instruction_count = 77
+insn thumb: 0x0000681B 
+num_insns: 9
+instruction_count = 78
+insn thumb: 0x0000F443 
+instruction count = 79
+insn thumb 2: 0x00003380 *********
+num_insns: 10
+instruction_count = 80
+insn thumb: 0x00006013 
+num_insns: 11
+instruction_count = 81
+insn thumb: 0x00004B37 
+num_insns: 12
+instruction_count = 82
+insn thumb: 0x0000681B 
+num_insns: 13
+instruction_count = 83
+insn thumb: 0x0000F403 
+instruction count = 84
+insn thumb 2: 0x00003300 *********
+num_insns: 14
+instruction_count = 85
+insn thumb: 0x0000603B 
+num_insns: 15
+instruction_count = 86
+insn thumb: 0x0000687B 
+num_insns: 16
+instruction_count = 87
+insn thumb: 0x00003301 
+num_insns: 17
+instruction_count = 88
+insn thumb: 0x0000607B 
+num_insns: 18
+instruction_count = 89
+insn thumb: 0x0000683B 
+num_insns: 19
+instruction_count = 90
+insn thumb: 0x00002B00 
+num_insns: 20
+instruction_count = 91
+insn thumb: 0x0000D103 
+num_insns: 21
+instruction_count = 92
+insn thumb: 0x00004B2F 
+num_insns: 0
+instruction_count = 93
+insn thumb: 0x0000681B 
+num_insns: 1
+instruction_count = 94
+insn thumb: 0x0000F403 
+instruction count = 95
+insn thumb 2: 0x00003300 *********
+num_insns: 2
+instruction_count = 96
+insn thumb: 0x00002B00 
+num_insns: 3
+instruction_count = 97
+insn thumb: 0x0000D002 
+num_insns: 4
+instruction_count = 98
+insn thumb: 0x00002301 
+num_insns: 0
+instruction_count = 99
+insn thumb: 0x0000603B 
+num_insns: 1
+instruction_count = 100
+insn thumb: 0x0000E001 
+num_insns: 2
+instruction_count = 101
+insn thumb: 0x0000683B 
+num_insns: 0
+instruction_count = 102
+insn thumb: 0x00002B01 
+num_insns: 1
+instruction_count = 103
+insn thumb: 0x0000D14B 
+num_insns: 2
+instruction_count = 104
+insn thumb: 0x00004A29 
+num_insns: 0
+instruction_count = 105
+insn thumb: 0x00004B29 
+num_insns: 1
+instruction_count = 106
+insn thumb: 0x0000681B 
+num_insns: 2
+instruction_count = 107
+insn thumb: 0x0000F043 
+instruction count = 108
+insn thumb 2: 0x00000310 *********
+num_insns: 3
+instruction_count = 109
+insn thumb: 0x00006013 
+num_insns: 4
+instruction_count = 110
+insn thumb: 0x00004A26 
+num_insns: 5
+instruction_count = 111
+insn thumb: 0x00004B26 
+num_insns: 6
+instruction_count = 112
+insn thumb: 0x0000681B 
+num_insns: 7
+instruction_count = 113
+insn thumb: 0x0000F023 
+instruction count = 114
+insn thumb 2: 0x00000303 *********
+num_insns: 8
+instruction_count = 115
+insn thumb: 0x00006013 
+num_insns: 9
+instruction_count = 116
+insn thumb: 0x00004A23 
+num_insns: 10
+instruction_count = 117
+insn thumb: 0x00004B23 
+num_insns: 11
+instruction_count = 118
+insn thumb: 0x0000681B 
+num_insns: 12
+instruction_count = 119
+insn thumb: 0x0000F043 
+instruction count = 120
+insn thumb 2: 0x00000302 *********
+num_insns: 13
+instruction_count = 121
+insn thumb: 0x00006013 
+num_insns: 14
+instruction_count = 122
+insn thumb: 0x00004A1F 
+num_insns: 15
+instruction_count = 123
+insn thumb: 0x00004B1F 
+num_insns: 16
+instruction_count = 124
+insn thumb: 0x0000685B 
+num_insns: 17
+instruction_count = 125
+insn thumb: 0x00006053 
+num_insns: 18
+instruction_count = 126
+insn thumb: 0x00004A1D 
+num_insns: 19
+instruction_count = 127
+insn thumb: 0x00004B1D 
+num_insns: 20
+instruction_count = 128
+insn thumb: 0x0000685B 
+num_insns: 21
+instruction_count = 129
+insn thumb: 0x00006053 
+num_insns: 22
+instruction_count = 130
+insn thumb: 0x00004A1B 
+num_insns: 23
+instruction_count = 131
+insn thumb: 0x00004B1B 
+num_insns: 24
+instruction_count = 132
+insn thumb: 0x0000685B 
+num_insns: 25
+instruction_count = 133
+insn thumb: 0x0000F443 
+instruction count = 134
+insn thumb 2: 0x00006380 *********
+num_insns: 26
+instruction_count = 135
+insn thumb: 0x00006053 
+num_insns: 27
+instruction_count = 136
+insn thumb: 0x00004A18 
+num_insns: 28
+instruction_count = 137
+insn thumb: 0x00004B18 
+num_insns: 29
+instruction_count = 138
+insn thumb: 0x0000685B 
+num_insns: 30
+instruction_count = 139
+insn thumb: 0x0000F423 
+instruction count = 140
+insn thumb 2: 0x0000137C *********
+num_insns: 31
+instruction_count = 141
+insn thumb: 0x00006053 
+num_insns: 32
+instruction_count = 142
+insn thumb: 0x00004A15 
+num_insns: 33
+instruction_count = 143
+insn thumb: 0x00004B15 
+num_insns: 34
+instruction_count = 144
+insn thumb: 0x0000685B 
+num_insns: 35
+instruction_count = 145
+insn thumb: 0x0000F443 
+instruction count = 146
+insn thumb 2: 0x000013E8 *********
+num_insns: 36
+instruction_count = 147
+insn thumb: 0x00006053 
+num_insns: 37
+instruction_count = 148
+insn thumb: 0x00004A12 
+num_insns: 38
+instruction_count = 149
+insn thumb: 0x00004B12 
+num_insns: 39
+instruction_count = 150
+insn thumb: 0x0000681B 
+num_insns: 40
+instruction_count = 151
+insn thumb: 0x0000F043 
+instruction count = 152
+insn thumb 2: 0x00007380 *********
+num_insns: 41
+instruction_count = 153
+insn thumb: 0x00006013 
+num_insns: 42
+instruction_count = 154
+insn thumb: 0x0000BF00 
+num_insns: 43
+instruction_count = 155
+insn thumb: 0x00004B0F 
+num_insns: 44
+instruction_count = 156
+insn thumb: 0x0000681B 
+num_insns: 45
+instruction_count = 157
+insn thumb: 0x0000F003 
+instruction count = 158
+insn thumb 2: 0x00007300 *********
+num_insns: 46
+instruction_count = 159
+insn thumb: 0x00002B00 
+num_insns: 47
+instruction_count = 160
+insn thumb: 0x0000D0F9 
+num_insns: 48
+instruction_count = 161
+insn thumb: 0x00004A0C 
+num_insns: 0
+instruction_count = 162
+insn thumb: 0x00004B0B 
+num_insns: 1
+instruction_count = 163
+insn thumb: 0x0000685B 
+num_insns: 2
+instruction_count = 164
+insn thumb: 0x0000F023 
+instruction count = 165
+insn thumb 2: 0x00000303 *********
+num_insns: 3
+instruction_count = 166
+insn thumb: 0x00006053 
+num_insns: 4
+instruction_count = 167
+insn thumb: 0x00004A09 
+num_insns: 5
+instruction_count = 168
+insn thumb: 0x00004B08 
+num_insns: 6
+instruction_count = 169
+insn thumb: 0x0000685B 
+num_insns: 7
+instruction_count = 170
+insn thumb: 0x0000F043 
+instruction count = 171
+insn thumb 2: 0x00000302 *********
+num_insns: 8
+instruction_count = 172
+insn thumb: 0x00006053 
+num_insns: 9
+instruction_count = 173
+insn thumb: 0x0000BF00 
+num_insns: 10
+instruction_count = 174
+insn thumb: 0x00004B05 
+num_insns: 11
+instruction_count = 175
+insn thumb: 0x0000685B 
+num_insns: 12
+instruction_count = 176
+insn thumb: 0x0000F003 
+instruction count = 177
+insn thumb 2: 0x0000030C *********
+num_insns: 13
+instruction_count = 178
+insn thumb: 0x00002B08 
+num_insns: 14
+instruction_count = 179
+insn thumb: 0x0000D1F9 
+num_insns: 15
+instruction_count = 180
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 181
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 182
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 183
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 184
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 185
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 186
+insn thumb: 0x0000BD80 
+num_insns: 1
+instruction_count = 187
+insn thumb: 0x00004B04 
+num_insns: 0
+instruction_count = 188
+insn thumb: 0x0000F04F 
+instruction count = 189
+insn thumb 2: 0x00006200 *********
+num_insns: 1
+instruction_count = 190
+insn thumb: 0x0000609A 
+num_insns: 2
+instruction_count = 191
+insn thumb: 0x0000BF00 
+num_insns: 3
+instruction_count = 192
+insn thumb: 0x0000BD80 
+num_insns: 4
+instruction_count = 193
+insn thumb: 0x0000F7FF 
+instruction count = 194
+insn thumb 2: 0x0000FEB4 *********
+num_insns: 0
+instruction_count = 195
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 196
+insn thumb: 0x0000B098 
+num_insns: 1
+instruction_count = 197
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 198
+insn thumb: 0x00002300 
+num_insns: 3
+instruction_count = 199
+insn thumb: 0x000065FB 
+num_insns: 4
+instruction_count = 200
+insn thumb: 0x00002300 
+num_insns: 5
+instruction_count = 201
+insn thumb: 0x000065BB 
+num_insns: 6
+instruction_count = 202
+insn thumb: 0x00004B52 
+num_insns: 7
+instruction_count = 203
+insn thumb: 0x000064BB 
+num_insns: 8
+instruction_count = 204
+insn thumb: 0x00002132 
+num_insns: 9
+instruction_count = 205
+insn thumb: 0x00004852 
+num_insns: 10
+instruction_count = 206
+insn thumb: 0x0000F7FF 
+instruction count = 207
+insn thumb 2: 0x0000FF27 *********
+num_insns: 11
+instruction_count = 208
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 209
+insn thumb: 0x0000B085 
+num_insns: 1
+instruction_count = 210
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 211
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 212
+insn thumb: 0x00006039 
+num_insns: 4
+instruction_count = 213
+insn thumb: 0x0000F241 
+instruction count = 214
+insn thumb 2: 0x00005305 *********
+num_insns: 5
+instruction_count = 215
+insn thumb: 0x000060FB 
+num_insns: 6
+instruction_count = 216
+insn thumb: 0x0000E009 
+num_insns: 7
+instruction_count = 217
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 218
+insn thumb: 0x00001C5A 
+num_insns: 1
+instruction_count = 219
+insn thumb: 0x0000607A 
+num_insns: 2
+instruction_count = 220
+insn thumb: 0x0000781B 
+num_insns: 3
+instruction_count = 221
+insn thumb: 0x000060BB 
+num_insns: 4
+instruction_count = 222
+insn thumb: 0x000068BB 
+num_insns: 5
+instruction_count = 223
+insn thumb: 0x00002B00 
+num_insns: 6
+instruction_count = 224
+insn thumb: 0x0000D002 
+num_insns: 7
+instruction_count = 225
+insn thumb: 0x0000683B 
+num_insns: 0
+instruction_count = 226
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 227
+insn thumb: 0x0000DCEA 
+num_insns: 2
+instruction_count = 228
+insn thumb: 0x000068FB 
+num_insns: 0
+instruction_count = 229
+insn thumb: 0x0000015A 
+num_insns: 1
+instruction_count = 230
+insn thumb: 0x000068FB 
+num_insns: 2
+instruction_count = 231
+insn thumb: 0x0000441A 
+num_insns: 3
+instruction_count = 232
+insn thumb: 0x000068BB 
+num_insns: 4
+instruction_count = 233
+insn thumb: 0x00004413 
+num_insns: 5
+instruction_count = 234
+insn thumb: 0x000060FB 
+num_insns: 6
+instruction_count = 235
+insn thumb: 0x0000683B 
+num_insns: 7
+instruction_count = 236
+insn thumb: 0x00003B01 
+num_insns: 8
+instruction_count = 237
+insn thumb: 0x0000603B 
+num_insns: 9
+instruction_count = 238
+insn thumb: 0x0000687B 
+num_insns: 10
+instruction_count = 239
+insn thumb: 0x00001C5A 
+num_insns: 11
+instruction_count = 240
+insn thumb: 0x0000607A 
+num_insns: 12
+instruction_count = 241
+insn thumb: 0x0000781B 
+num_insns: 13
+instruction_count = 242
+insn thumb: 0x000060BB 
+num_insns: 14
+instruction_count = 243
+insn thumb: 0x000068BB 
+num_insns: 15
+instruction_count = 244
+insn thumb: 0x00002B00 
+num_insns: 16
+instruction_count = 245
+insn thumb: 0x0000D002 
+num_insns: 17
+instruction_count = 246
+insn thumb: 0x000068FB 
+num_insns: 0
+instruction_count = 247
+insn thumb: 0x00004618 
+num_insns: 1
+instruction_count = 248
+insn thumb: 0x00003714 
+num_insns: 2
+instruction_count = 249
+insn thumb: 0x000046BD 
+num_insns: 3
+instruction_count = 250
+insn thumb: 0x0000BC80 
+num_insns: 4
+instruction_count = 251
+insn thumb: 0x00004770 
+num_insns: 5
+instruction_count = 252
+insn thumb: 0x00006478 
+num_insns: 0
+instruction_count = 253
+insn thumb: 0x00002132 
+num_insns: 1
+instruction_count = 254
+insn thumb: 0x00004850 
+num_insns: 2
+instruction_count = 255
+insn thumb: 0x0000F7FF 
+instruction count = 256
+insn thumb 2: 0x0000FF22 *********
+num_insns: 3
+instruction_count = 257
+insn thumb: 0x00006438 
+num_insns: 0
+instruction_count = 258
+insn thumb: 0x0000F7FA 
+instruction count = 259
+insn thumb 2: 0x0000FD88 *********
+num_insns: 1
+instruction_count = 260
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 261
+insn thumb: 0x0000B082 
+num_insns: 1
+instruction_count = 262
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 263
+insn thumb: 0x00002101 
+num_insns: 3
+instruction_count = 264
+insn thumb: 0x00002010 
+num_insns: 4
+instruction_count = 265
+insn thumb: 0x0000F001 
+instruction count = 266
+insn thumb 2: 0x0000F879 *********
+num_insns: 5
+instruction_count = 267
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 268
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 269
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 270
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 271
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 272
+insn thumb: 0x000070FB 
+num_insns: 5
+instruction_count = 273
+insn thumb: 0x000078FB 
+num_insns: 6
+instruction_count = 274
+insn thumb: 0x00002B00 
+num_insns: 7
+instruction_count = 275
+insn thumb: 0x0000D006 
+num_insns: 8
+instruction_count = 276
+insn thumb: 0x00004909 
+num_insns: 0
+instruction_count = 277
+insn thumb: 0x00004B08 
+num_insns: 1
+instruction_count = 278
+insn thumb: 0x0000699A 
+num_insns: 2
+instruction_count = 279
+insn thumb: 0x0000687B 
+num_insns: 3
+instruction_count = 280
+insn thumb: 0x00004313 
+num_insns: 4
+instruction_count = 281
+insn thumb: 0x0000618B 
+num_insns: 5
+instruction_count = 282
+insn thumb: 0x0000E006 
+num_insns: 6
+instruction_count = 283
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 284
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 285
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 286
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 287
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 288
+insn thumb: 0x00002201 
+num_insns: 0
+instruction_count = 289
+insn thumb: 0x0000F44F 
+instruction count = 290
+insn thumb 2: 0x00005180 *********
+num_insns: 1
+instruction_count = 291
+insn thumb: 0x00004809 
+num_insns: 2
+instruction_count = 292
+insn thumb: 0x0000F001 
+instruction count = 293
+insn thumb 2: 0x0000FB40 *********
+num_insns: 3
+instruction_count = 294
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 295
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 296
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 297
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 298
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 299
+insn thumb: 0x0000807B 
+num_insns: 5
+instruction_count = 300
+insn thumb: 0x00004613 
+num_insns: 6
+instruction_count = 301
+insn thumb: 0x0000707B 
+num_insns: 7
+instruction_count = 302
+insn thumb: 0x0000787B 
+num_insns: 8
+instruction_count = 303
+insn thumb: 0x00002B00 
+num_insns: 9
+instruction_count = 304
+insn thumb: 0x0000D003 
+num_insns: 10
+instruction_count = 305
+insn thumb: 0x0000887A 
+num_insns: 0
+instruction_count = 306
+insn thumb: 0x0000687B 
+num_insns: 1
+instruction_count = 307
+insn thumb: 0x0000611A 
+num_insns: 2
+instruction_count = 308
+insn thumb: 0x0000E002 
+num_insns: 3
+instruction_count = 309
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 310
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 311
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 312
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 313
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 314
+insn thumb: 0x0000F44F 
+instruction count = 315
+insn thumb 2: 0x00005380 *********
+num_insns: 0
+instruction_count = 316
+insn thumb: 0x000080BB 
+num_insns: 1
+instruction_count = 317
+insn thumb: 0x00002310 
+num_insns: 2
+instruction_count = 318
+insn thumb: 0x000071FB 
+num_insns: 3
+instruction_count = 319
+insn thumb: 0x00002303 
+num_insns: 4
+instruction_count = 320
+insn thumb: 0x000071BB 
+num_insns: 5
+instruction_count = 321
+insn thumb: 0x00001D3B 
+num_insns: 6
+instruction_count = 322
+insn thumb: 0x00004619 
+num_insns: 7
+instruction_count = 323
+insn thumb: 0x00004803 
+num_insns: 8
+instruction_count = 324
+insn thumb: 0x0000F001 
+instruction count = 325
+insn thumb 2: 0x0000F9FF *********
+num_insns: 9
+instruction_count = 326
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 327
+insn thumb: 0x0000B089 
+num_insns: 1
+instruction_count = 328
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 329
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 330
+insn thumb: 0x00006039 
+num_insns: 4
+instruction_count = 331
+insn thumb: 0x00002300 
+num_insns: 5
+instruction_count = 332
+insn thumb: 0x000061FB 
+num_insns: 6
+instruction_count = 333
+insn thumb: 0x00002300 
+num_insns: 7
+instruction_count = 334
+insn thumb: 0x0000613B 
+num_insns: 8
+instruction_count = 335
+insn thumb: 0x00002300 
+num_insns: 9
+instruction_count = 336
+insn thumb: 0x000061BB 
+num_insns: 10
+instruction_count = 337
+insn thumb: 0x00002300 
+num_insns: 11
+instruction_count = 338
+insn thumb: 0x000060FB 
+num_insns: 12
+instruction_count = 339
+insn thumb: 0x00002300 
+num_insns: 13
+instruction_count = 340
+insn thumb: 0x0000617B 
+num_insns: 14
+instruction_count = 341
+insn thumb: 0x00002300 
+num_insns: 15
+instruction_count = 342
+insn thumb: 0x000060BB 
+num_insns: 16
+instruction_count = 343
+insn thumb: 0x0000683B 
+num_insns: 17
+instruction_count = 344
+insn thumb: 0x000078DB 
+num_insns: 18
+instruction_count = 345
+insn thumb: 0x0000F003 
+instruction count = 346
+insn thumb 2: 0x0000030F *********
+num_insns: 19
+instruction_count = 347
+insn thumb: 0x000061FB 
+num_insns: 20
+instruction_count = 348
+insn thumb: 0x0000683B 
+num_insns: 21
+instruction_count = 349
+insn thumb: 0x000078DB 
+num_insns: 22
+instruction_count = 350
+insn thumb: 0x0000F003 
+instruction count = 351
+insn thumb 2: 0x00000310 *********
+num_insns: 23
+instruction_count = 352
+insn thumb: 0x00002B00 
+num_insns: 24
+instruction_count = 353
+insn thumb: 0x0000D005 
+num_insns: 25
+instruction_count = 354
+insn thumb: 0x0000683B 
+num_insns: 0
+instruction_count = 355
+insn thumb: 0x0000789B 
+num_insns: 1
+instruction_count = 356
+insn thumb: 0x0000461A 
+num_insns: 2
+instruction_count = 357
+insn thumb: 0x000069FB 
+num_insns: 3
+instruction_count = 358
+insn thumb: 0x00004313 
+num_insns: 4
+instruction_count = 359
+insn thumb: 0x000061FB 
+num_insns: 5
+instruction_count = 360
+insn thumb: 0x0000683B 
+num_insns: 6
+instruction_count = 361
+insn thumb: 0x0000881B 
+num_insns: 7
+instruction_count = 362
+insn thumb: 0x0000B2DB 
+num_insns: 8
+instruction_count = 363
+insn thumb: 0x00002B00 
+num_insns: 9
+instruction_count = 364
+insn thumb: 0x0000D044 
+num_insns: 10
+instruction_count = 365
+insn thumb: 0x0000683B 
+num_insns: 0
+instruction_count = 366
+insn thumb: 0x0000881B 
+num_insns: 1
+instruction_count = 367
+insn thumb: 0x00002BFF 
+num_insns: 2
+instruction_count = 368
+insn thumb: 0x0000D946 
+num_insns: 3
+instruction_count = 369
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 370
+insn thumb: 0x0000685B 
+num_insns: 1
+instruction_count = 371
+insn thumb: 0x0000617B 
+num_insns: 2
+instruction_count = 372
+insn thumb: 0x00002300 
+num_insns: 3
+instruction_count = 373
+insn thumb: 0x000061BB 
+num_insns: 4
+instruction_count = 374
+insn thumb: 0x0000E03A 
+num_insns: 5
+instruction_count = 375
+insn thumb: 0x000069BB 
+num_insns: 0
+instruction_count = 376
+insn thumb: 0x00002B07 
+num_insns: 1
+instruction_count = 377
+insn thumb: 0x0000D9C1 
+num_insns: 2
+instruction_count = 378
+insn thumb: 0x000069BB 
+num_insns: 0
+instruction_count = 379
+insn thumb: 0x00003308 
+num_insns: 1
+instruction_count = 380
+insn thumb: 0x00002201 
+num_insns: 2
+instruction_count = 381
+insn thumb: 0x0000FA02 
+instruction count = 382
+insn thumb 2: 0x0000F303 *********
+num_insns: 3
+instruction_count = 383
+insn thumb: 0x000060FB 
+num_insns: 4
+instruction_count = 384
+insn thumb: 0x0000683B 
+num_insns: 5
+instruction_count = 385
+insn thumb: 0x0000881B 
+num_insns: 6
+instruction_count = 386
+insn thumb: 0x0000461A 
+num_insns: 7
+instruction_count = 387
+insn thumb: 0x000068FB 
+num_insns: 8
+instruction_count = 388
+insn thumb: 0x00004013 
+num_insns: 9
+instruction_count = 389
+insn thumb: 0x0000613B 
+num_insns: 10
+instruction_count = 390
+insn thumb: 0x0000693A 
+num_insns: 11
+instruction_count = 391
+insn thumb: 0x000068FB 
+num_insns: 12
+instruction_count = 392
+insn thumb: 0x0000429A 
+num_insns: 13
+instruction_count = 393
+insn thumb: 0x0000D127 
+num_insns: 14
+instruction_count = 394
+insn thumb: 0x000069BB 
+num_insns: 0
+instruction_count = 395
+insn thumb: 0x00003301 
+num_insns: 1
+instruction_count = 396
+insn thumb: 0x000061BB 
+num_insns: 2
+instruction_count = 397
+insn thumb: 0x000069BB 
+num_insns: 3
+instruction_count = 398
+insn thumb: 0x00002B07 
+num_insns: 4
+instruction_count = 399
+insn thumb: 0x0000D9C1 
+num_insns: 5
+instruction_count = 400
+insn thumb: 0x000069BB 
+num_insns: 0
+instruction_count = 401
+insn thumb: 0x0000009B 
+num_insns: 1
+instruction_count = 402
+insn thumb: 0x000060FB 
+num_insns: 2
+instruction_count = 403
+insn thumb: 0x0000220F 
+num_insns: 3
+instruction_count = 404
+insn thumb: 0x000068FB 
+num_insns: 4
+instruction_count = 405
+insn thumb: 0x0000FA02 
+instruction count = 406
+insn thumb 2: 0x0000F303 *********
+num_insns: 5
+instruction_count = 407
+insn thumb: 0x000060BB 
+num_insns: 6
+instruction_count = 408
+insn thumb: 0x000068BB 
+num_insns: 7
+instruction_count = 409
+insn thumb: 0x000043DB 
+num_insns: 8
+instruction_count = 410
+insn thumb: 0x0000697A 
+num_insns: 9
+instruction_count = 411
+insn thumb: 0x00004013 
+num_insns: 10
+instruction_count = 412
+insn thumb: 0x0000617B 
+num_insns: 11
+instruction_count = 413
+insn thumb: 0x000069FA 
+num_insns: 12
+instruction_count = 414
+insn thumb: 0x000068FB 
+num_insns: 13
+instruction_count = 415
+insn thumb: 0x0000FA02 
+instruction count = 416
+insn thumb 2: 0x0000F303 *********
+num_insns: 14
+instruction_count = 417
+insn thumb: 0x0000697A 
+num_insns: 15
+instruction_count = 418
+insn thumb: 0x00004313 
+num_insns: 16
+instruction_count = 419
+insn thumb: 0x0000617B 
+num_insns: 17
+instruction_count = 420
+insn thumb: 0x0000683B 
+num_insns: 18
+instruction_count = 421
+insn thumb: 0x000078DB 
+num_insns: 19
+instruction_count = 422
+insn thumb: 0x00002B28 
+num_insns: 20
+instruction_count = 423
+insn thumb: 0x0000D105 
+num_insns: 21
+instruction_count = 424
+insn thumb: 0x0000683B 
+num_insns: 0
+instruction_count = 425
+insn thumb: 0x000078DB 
+num_insns: 1
+instruction_count = 426
+insn thumb: 0x00002B48 
+num_insns: 2
+instruction_count = 427
+insn thumb: 0x0000D105 
+num_insns: 3
+instruction_count = 428
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 429
+insn thumb: 0x0000697A 
+num_insns: 1
+instruction_count = 430
+insn thumb: 0x0000605A 
+num_insns: 2
+instruction_count = 431
+insn thumb: 0x0000BF00 
+num_insns: 3
+instruction_count = 432
+insn thumb: 0x00003724 
+num_insns: 4
+instruction_count = 433
+insn thumb: 0x000046BD 
+num_insns: 5
+instruction_count = 434
+insn thumb: 0x0000BC80 
+num_insns: 6
+instruction_count = 435
+insn thumb: 0x00004770 
+num_insns: 7
+instruction_count = 436
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 437
+insn thumb: 0x00003708 
+num_insns: 1
+instruction_count = 438
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 439
+insn thumb: 0x0000BD80 
+num_insns: 3
+instruction_count = 440
+insn thumb: 0x0000F7FF 
+instruction count = 441
+insn thumb 2: 0x0000FF5C *********
+num_insns: 0
+instruction_count = 442
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 443
+insn thumb: 0x0000B084 
+num_insns: 1
+instruction_count = 444
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 445
+insn thumb: 0x00002101 
+num_insns: 3
+instruction_count = 446
+insn thumb: 0x00002001 
+num_insns: 4
+instruction_count = 447
+insn thumb: 0x0000F7FB 
+instruction count = 448
+insn thumb 2: 0x0000FEC1 *********
+num_insns: 5
+instruction_count = 449
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 450
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 451
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 452
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 453
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 454
+insn thumb: 0x000070FB 
+num_insns: 5
+instruction_count = 455
+insn thumb: 0x000078FB 
+num_insns: 6
+instruction_count = 456
+insn thumb: 0x00002B00 
+num_insns: 7
+instruction_count = 457
+insn thumb: 0x0000D006 
+num_insns: 8
+instruction_count = 458
+insn thumb: 0x00004909 
+num_insns: 0
+instruction_count = 459
+insn thumb: 0x00004B08 
+num_insns: 1
+instruction_count = 460
+insn thumb: 0x000069DA 
+num_insns: 2
+instruction_count = 461
+insn thumb: 0x0000687B 
+num_insns: 3
+instruction_count = 462
+insn thumb: 0x00004313 
+num_insns: 4
+instruction_count = 463
+insn thumb: 0x000061CB 
+num_insns: 5
+instruction_count = 464
+insn thumb: 0x0000E006 
+num_insns: 6
+instruction_count = 465
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 466
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 467
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 468
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 469
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 470
+insn thumb: 0x00004B17 
+num_insns: 0
+instruction_count = 471
+insn thumb: 0x0000881B 
+num_insns: 1
+instruction_count = 472
+insn thumb: 0x0000461A 
+num_insns: 2
+instruction_count = 473
+insn thumb: 0x00000092 
+num_insns: 3
+instruction_count = 474
+insn thumb: 0x00004413 
+num_insns: 4
+instruction_count = 475
+insn thumb: 0x0000B29B 
+num_insns: 5
+instruction_count = 476
+insn thumb: 0x00003B01 
+num_insns: 6
+instruction_count = 477
+insn thumb: 0x0000B29B 
+num_insns: 7
+instruction_count = 478
+insn thumb: 0x0000813B 
+num_insns: 8
+instruction_count = 479
+insn thumb: 0x0000F64F 
+instruction count = 480
+insn thumb 2: 0x000073FF *********
+num_insns: 9
+instruction_count = 481
+insn thumb: 0x000080BB 
+num_insns: 10
+instruction_count = 482
+insn thumb: 0x00002300 
+num_insns: 11
+instruction_count = 483
+insn thumb: 0x0000817B 
+num_insns: 12
+instruction_count = 484
+insn thumb: 0x00002300 
+num_insns: 13
+instruction_count = 485
+insn thumb: 0x000080FB 
+num_insns: 14
+instruction_count = 486
+insn thumb: 0x00001D3B 
+num_insns: 15
+instruction_count = 487
+insn thumb: 0x00004619 
+num_insns: 16
+instruction_count = 488
+insn thumb: 0x0000F04F 
+instruction count = 489
+insn thumb 2: 0x00004080 *********
+num_insns: 17
+instruction_count = 490
+insn thumb: 0x0000F7FD 
+instruction count = 491
+insn thumb 2: 0x0000FE25 *********
+num_insns: 18
+instruction_count = 492
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 493
+insn thumb: 0x0000B085 
+num_insns: 1
+instruction_count = 494
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 495
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 496
+insn thumb: 0x00006039 
+num_insns: 4
+instruction_count = 497
+insn thumb: 0x00002300 
+num_insns: 5
+instruction_count = 498
+insn thumb: 0x000081FB 
+num_insns: 6
+instruction_count = 499
+insn thumb: 0x0000687B 
+num_insns: 7
+instruction_count = 500
+insn thumb: 0x0000881B 
+num_insns: 8
+instruction_count = 501
+insn thumb: 0x000081FB 
+num_insns: 9
+instruction_count = 502
+insn thumb: 0x0000687B 
+num_insns: 10
+instruction_count = 503
+insn thumb: 0x00004A2E 
+num_insns: 11
+instruction_count = 504
+insn thumb: 0x00004293 
+num_insns: 12
+instruction_count = 505
+insn thumb: 0x0000D013 
+num_insns: 13
+instruction_count = 506
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 507
+insn thumb: 0x00004A2D 
+num_insns: 1
+instruction_count = 508
+insn thumb: 0x00004293 
+num_insns: 2
+instruction_count = 509
+insn thumb: 0x0000D00F 
+num_insns: 3
+instruction_count = 510
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 511
+insn thumb: 0x0000F1B3 
+instruction count = 512
+insn thumb 2: 0x00004F80 *********
+num_insns: 1
+instruction_count = 513
+insn thumb: 0x0000D00B 
+num_insns: 2
+instruction_count = 514
+insn thumb: 0x000089FB 
+num_insns: 0
+instruction_count = 515
+insn thumb: 0x0000F023 
+instruction count = 516
+insn thumb 2: 0x00000370 *********
+num_insns: 1
+instruction_count = 517
+insn thumb: 0x000081FB 
+num_insns: 2
+instruction_count = 518
+insn thumb: 0x0000683B 
+num_insns: 3
+instruction_count = 519
+insn thumb: 0x0000885A 
+num_insns: 4
+instruction_count = 520
+insn thumb: 0x000089FB 
+num_insns: 5
+instruction_count = 521
+insn thumb: 0x00004313 
+num_insns: 6
+instruction_count = 522
+insn thumb: 0x000081FB 
+num_insns: 7
+instruction_count = 523
+insn thumb: 0x0000687B 
+num_insns: 8
+instruction_count = 524
+insn thumb: 0x00004A22 
+num_insns: 9
+instruction_count = 525
+insn thumb: 0x00004293 
+num_insns: 10
+instruction_count = 526
+insn thumb: 0x0000D00C 
+num_insns: 11
+instruction_count = 527
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 528
+insn thumb: 0x00004A21 
+num_insns: 1
+instruction_count = 529
+insn thumb: 0x00004293 
+num_insns: 2
+instruction_count = 530
+insn thumb: 0x0000D008 
+num_insns: 3
+instruction_count = 531
+insn thumb: 0x000089FB 
+num_insns: 0
+instruction_count = 532
+insn thumb: 0x0000F423 
+instruction count = 533
+insn thumb 2: 0x00007340 *********
+num_insns: 1
+instruction_count = 534
+insn thumb: 0x000081FB 
+num_insns: 2
+instruction_count = 535
+insn thumb: 0x0000683B 
+num_insns: 3
+instruction_count = 536
+insn thumb: 0x000088DA 
+num_insns: 4
+instruction_count = 537
+insn thumb: 0x000089FB 
+num_insns: 5
+instruction_count = 538
+insn thumb: 0x00004313 
+num_insns: 6
+instruction_count = 539
+insn thumb: 0x000081FB 
+num_insns: 7
+instruction_count = 540
+insn thumb: 0x0000687B 
+num_insns: 8
+instruction_count = 541
+insn thumb: 0x000089FA 
+num_insns: 9
+instruction_count = 542
+insn thumb: 0x0000801A 
+num_insns: 10
+instruction_count = 543
+insn thumb: 0x0000683B 
+num_insns: 11
+instruction_count = 544
+insn thumb: 0x0000889A 
+num_insns: 12
+instruction_count = 545
+insn thumb: 0x0000687B 
+num_insns: 13
+instruction_count = 546
+insn thumb: 0x0000859A 
+num_insns: 14
+instruction_count = 547
+insn thumb: 0x0000683B 
+num_insns: 15
+instruction_count = 548
+insn thumb: 0x0000881A 
+num_insns: 16
+instruction_count = 549
+insn thumb: 0x0000687B 
+num_insns: 17
+instruction_count = 550
+insn thumb: 0x0000851A 
+num_insns: 18
+instruction_count = 551
+insn thumb: 0x0000687B 
+num_insns: 19
+instruction_count = 552
+insn thumb: 0x00004A0F 
+num_insns: 20
+instruction_count = 553
+insn thumb: 0x00004293 
+num_insns: 21
+instruction_count = 554
+insn thumb: 0x0000D00F 
+num_insns: 22
+instruction_count = 555
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 556
+insn thumb: 0x00004A0E 
+num_insns: 1
+instruction_count = 557
+insn thumb: 0x00004293 
+num_insns: 2
+instruction_count = 558
+insn thumb: 0x0000D00B 
+num_insns: 3
+instruction_count = 559
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 560
+insn thumb: 0x00004A12 
+num_insns: 1
+instruction_count = 561
+insn thumb: 0x00004293 
+num_insns: 2
+instruction_count = 562
+insn thumb: 0x0000D007 
+num_insns: 3
+instruction_count = 563
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 564
+insn thumb: 0x00004A11 
+num_insns: 1
+instruction_count = 565
+insn thumb: 0x00004293 
+num_insns: 2
+instruction_count = 566
+insn thumb: 0x0000D003 
+num_insns: 3
+instruction_count = 567
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 568
+insn thumb: 0x00004A10 
+num_insns: 1
+instruction_count = 569
+insn thumb: 0x00004293 
+num_insns: 2
+instruction_count = 570
+insn thumb: 0x0000D104 
+num_insns: 3
+instruction_count = 571
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 572
+insn thumb: 0x00002201 
+num_insns: 1
+instruction_count = 573
+insn thumb: 0x0000829A 
+num_insns: 2
+instruction_count = 574
+insn thumb: 0x0000BF00 
+num_insns: 3
+instruction_count = 575
+insn thumb: 0x00003714 
+num_insns: 4
+instruction_count = 576
+insn thumb: 0x000046BD 
+num_insns: 5
+instruction_count = 577
+insn thumb: 0x0000BC80 
+num_insns: 6
+instruction_count = 578
+insn thumb: 0x00004770 
+num_insns: 7
+instruction_count = 579
+insn thumb: 0x00002201 
+num_insns: 0
+instruction_count = 580
+insn thumb: 0x00002101 
+num_insns: 1
+instruction_count = 581
+insn thumb: 0x0000F04F 
+instruction count = 582
+insn thumb 2: 0x00004080 *********
+num_insns: 2
+instruction_count = 583
+insn thumb: 0x0000F7FE 
+instruction count = 584
+insn thumb 2: 0x0000FA28 *********
+num_insns: 3
+instruction_count = 585
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 586
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 587
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 588
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 589
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 590
+insn thumb: 0x0000807B 
+num_insns: 5
+instruction_count = 591
+insn thumb: 0x00004613 
+num_insns: 6
+instruction_count = 592
+insn thumb: 0x0000707B 
+num_insns: 7
+instruction_count = 593
+insn thumb: 0x0000787B 
+num_insns: 8
+instruction_count = 594
+insn thumb: 0x00002B00 
+num_insns: 9
+instruction_count = 595
+insn thumb: 0x0000D008 
+num_insns: 10
+instruction_count = 596
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 597
+insn thumb: 0x0000899B 
+num_insns: 1
+instruction_count = 598
+insn thumb: 0x0000B29A 
+num_insns: 2
+instruction_count = 599
+insn thumb: 0x0000887B 
+num_insns: 3
+instruction_count = 600
+insn thumb: 0x00004313 
+num_insns: 4
+instruction_count = 601
+insn thumb: 0x0000B29A 
+num_insns: 5
+instruction_count = 602
+insn thumb: 0x0000687B 
+num_insns: 6
+instruction_count = 603
+insn thumb: 0x0000819A 
+num_insns: 7
+instruction_count = 604
+insn thumb: 0x0000E009 
+num_insns: 8
+instruction_count = 605
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 606
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 607
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 608
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 609
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 610
+insn thumb: 0x0000231C 
+num_insns: 0
+instruction_count = 611
+insn thumb: 0x0000703B 
+num_insns: 1
+instruction_count = 612
+insn thumb: 0x00002300 
+num_insns: 2
+instruction_count = 613
+insn thumb: 0x000070BB 
+num_insns: 3
+instruction_count = 614
+insn thumb: 0x00002301 
+num_insns: 4
+instruction_count = 615
+insn thumb: 0x000070FB 
+num_insns: 5
+instruction_count = 616
+insn thumb: 0x0000463B 
+num_insns: 6
+instruction_count = 617
+insn thumb: 0x00004618 
+num_insns: 7
+instruction_count = 618
+insn thumb: 0x0000F7FF 
+instruction count = 619
+insn thumb 2: 0x0000FEB3 *********
+num_insns: 8
+instruction_count = 620
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 621
+insn thumb: 0x0000B087 
+num_insns: 1
+instruction_count = 622
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 623
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 624
+insn thumb: 0x00002300 
+num_insns: 4
+instruction_count = 625
+insn thumb: 0x0000617B 
+num_insns: 5
+instruction_count = 626
+insn thumb: 0x00002300 
+num_insns: 6
+instruction_count = 627
+insn thumb: 0x0000613B 
+num_insns: 7
+instruction_count = 628
+insn thumb: 0x0000230F 
+num_insns: 8
+instruction_count = 629
+insn thumb: 0x000060FB 
+num_insns: 9
+instruction_count = 630
+insn thumb: 0x0000687B 
+num_insns: 10
+instruction_count = 631
+insn thumb: 0x000078DB 
+num_insns: 11
+instruction_count = 632
+insn thumb: 0x00002B00 
+num_insns: 12
+instruction_count = 633
+insn thumb: 0x0000D03A 
+num_insns: 13
+instruction_count = 634
+insn thumb: 0x00004B27 
+num_insns: 0
+instruction_count = 635
+insn thumb: 0x000068DB 
+num_insns: 1
+instruction_count = 636
+insn thumb: 0x000043DB 
+num_insns: 2
+instruction_count = 637
+insn thumb: 0x00000A1B 
+num_insns: 3
+instruction_count = 638
+insn thumb: 0x0000F003 
+instruction count = 639
+insn thumb 2: 0x00000307 *********
+num_insns: 4
+instruction_count = 640
+insn thumb: 0x0000617B 
+num_insns: 5
+instruction_count = 641
+insn thumb: 0x0000697B 
+num_insns: 6
+instruction_count = 642
+insn thumb: 0x0000F1C3 
+instruction count = 643
+insn thumb 2: 0x00000304 *********
+num_insns: 7
+instruction_count = 644
+insn thumb: 0x0000613B 
+num_insns: 8
+instruction_count = 645
+insn thumb: 0x000068FA 
+num_insns: 9
+instruction_count = 646
+insn thumb: 0x0000697B 
+num_insns: 10
+instruction_count = 647
+insn thumb: 0x0000FA22 
+instruction count = 648
+insn thumb 2: 0x0000F303 *********
+num_insns: 11
+instruction_count = 649
+insn thumb: 0x000060FB 
+num_insns: 12
+instruction_count = 650
+insn thumb: 0x0000687B 
+num_insns: 13
+instruction_count = 651
+insn thumb: 0x0000785B 
+num_insns: 14
+instruction_count = 652
+insn thumb: 0x0000461A 
+num_insns: 15
+instruction_count = 653
+insn thumb: 0x0000693B 
+num_insns: 16
+instruction_count = 654
+insn thumb: 0x0000FA02 
+instruction count = 655
+insn thumb 2: 0x0000F303 *********
+num_insns: 17
+instruction_count = 656
+insn thumb: 0x0000617B 
+num_insns: 18
+instruction_count = 657
+insn thumb: 0x0000687B 
+num_insns: 19
+instruction_count = 658
+insn thumb: 0x0000789B 
+num_insns: 20
+instruction_count = 659
+insn thumb: 0x0000461A 
+num_insns: 21
+instruction_count = 660
+insn thumb: 0x000068FB 
+num_insns: 22
+instruction_count = 661
+insn thumb: 0x00004013 
+num_insns: 23
+instruction_count = 662
+insn thumb: 0x0000697A 
+num_insns: 24
+instruction_count = 663
+insn thumb: 0x00004313 
+num_insns: 25
+instruction_count = 664
+insn thumb: 0x0000617B 
+num_insns: 26
+instruction_count = 665
+insn thumb: 0x0000697B 
+num_insns: 27
+instruction_count = 666
+insn thumb: 0x0000011B 
+num_insns: 28
+instruction_count = 667
+insn thumb: 0x0000617B 
+num_insns: 29
+instruction_count = 668
+insn thumb: 0x00004A17 
+num_insns: 30
+instruction_count = 669
+insn thumb: 0x0000687B 
+num_insns: 31
+instruction_count = 670
+insn thumb: 0x0000781B 
+num_insns: 32
+instruction_count = 671
+insn thumb: 0x00006979 
+num_insns: 33
+instruction_count = 672
+insn thumb: 0x0000B2C9 
+num_insns: 34
+instruction_count = 673
+insn thumb: 0x00004413 
+num_insns: 35
+instruction_count = 674
+insn thumb: 0x0000460A 
+num_insns: 36
+instruction_count = 675
+insn thumb: 0x0000F883 
+instruction count = 676
+insn thumb 2: 0x00002300 *********
+num_insns: 37
+instruction_count = 677
+insn thumb: 0x00004A13 
+num_insns: 38
+instruction_count = 678
+insn thumb: 0x0000687B 
+num_insns: 39
+instruction_count = 679
+insn thumb: 0x0000781B 
+num_insns: 40
+instruction_count = 680
+insn thumb: 0x0000095B 
+num_insns: 41
+instruction_count = 681
+insn thumb: 0x0000B2DB 
+num_insns: 42
+instruction_count = 682
+insn thumb: 0x00004618 
+num_insns: 43
+instruction_count = 683
+insn thumb: 0x0000687B 
+num_insns: 44
+instruction_count = 684
+insn thumb: 0x0000781B 
+num_insns: 45
+instruction_count = 685
+insn thumb: 0x0000F003 
+instruction count = 686
+insn thumb 2: 0x0000031F *********
+num_insns: 46
+instruction_count = 687
+insn thumb: 0x00002101 
+num_insns: 47
+instruction_count = 688
+insn thumb: 0x0000FA01 
+instruction count = 689
+insn thumb 2: 0x0000F303 *********
+num_insns: 48
+instruction_count = 690
+insn thumb: 0x0000F842 
+instruction count = 691
+insn thumb 2: 0x00003020 *********
+num_insns: 49
+instruction_count = 692
+insn thumb: 0x0000E00F 
+num_insns: 50
+instruction_count = 693
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 694
+insn thumb: 0x0000371C 
+num_insns: 1
+instruction_count = 695
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 696
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 697
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 698
+insn thumb: 0x00002101 
+num_insns: 0
+instruction_count = 699
+insn thumb: 0x0000F04F 
+instruction count = 700
+insn thumb 2: 0x00004080 *********
+num_insns: 1
+instruction_count = 701
+insn thumb: 0x0000F7FE 
+instruction count = 702
+insn thumb 2: 0x0000F9D5 *********
+num_insns: 2
+instruction_count = 703
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 704
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 705
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 706
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 707
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 708
+insn thumb: 0x000070FB 
+num_insns: 5
+instruction_count = 709
+insn thumb: 0x000078FB 
+num_insns: 6
+instruction_count = 710
+insn thumb: 0x00002B00 
+num_insns: 7
+instruction_count = 711
+insn thumb: 0x0000D008 
+num_insns: 8
+instruction_count = 712
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 713
+insn thumb: 0x0000881B 
+num_insns: 1
+instruction_count = 714
+insn thumb: 0x0000B29B 
+num_insns: 2
+instruction_count = 715
+insn thumb: 0x0000F043 
+instruction count = 716
+insn thumb 2: 0x00000301 *********
+num_insns: 3
+instruction_count = 717
+insn thumb: 0x0000B29A 
+num_insns: 4
+instruction_count = 718
+insn thumb: 0x0000687B 
+num_insns: 5
+instruction_count = 719
+insn thumb: 0x0000801A 
+num_insns: 6
+instruction_count = 720
+insn thumb: 0x0000E007 
+num_insns: 7
+instruction_count = 721
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 722
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 723
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 724
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 725
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 726
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 727
+insn thumb: 0x00003710 
+num_insns: 1
+instruction_count = 728
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 729
+insn thumb: 0x0000BD80 
+num_insns: 3
+instruction_count = 730
+insn thumb: 0x0000F7FA 
+instruction count = 731
+insn thumb 2: 0x0000FDE4 *********
+num_insns: 0
+instruction_count = 732
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 733
+insn thumb: 0x0000B086 
+num_insns: 1
+instruction_count = 734
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 735
+insn thumb: 0x00002101 
+num_insns: 3
+instruction_count = 736
+insn thumb: 0x00002005 
+num_insns: 4
+instruction_count = 737
+insn thumb: 0x0000F001 
+instruction count = 738
+insn thumb 2: 0x0000F819 *********
+num_insns: 5
+instruction_count = 739
+insn thumb: 0x00002101 
+num_insns: 0
+instruction_count = 740
+insn thumb: 0x0000F44F 
+instruction count = 741
+insn thumb 2: 0x00003000 *********
+num_insns: 1
+instruction_count = 742
+insn thumb: 0x0000F001 
+instruction count = 743
+insn thumb 2: 0x0000F832 *********
+num_insns: 2
+instruction_count = 744
+insn thumb: 0x00002308 
+num_insns: 0
+instruction_count = 745
+insn thumb: 0x000080BB 
+num_insns: 1
+instruction_count = 746
+insn thumb: 0x00002304 
+num_insns: 2
+instruction_count = 747
+insn thumb: 0x000071FB 
+num_insns: 3
+instruction_count = 748
+insn thumb: 0x00001D3B 
+num_insns: 4
+instruction_count = 749
+insn thumb: 0x00004619 
+num_insns: 5
+instruction_count = 750
+insn thumb: 0x00004814 
+num_insns: 6
+instruction_count = 751
+insn thumb: 0x0000F001 
+instruction count = 752
+insn thumb 2: 0x0000F9A3 *********
+num_insns: 7
+instruction_count = 753
+insn thumb: 0x0000683B 
+num_insns: 0
+instruction_count = 754
+insn thumb: 0x0000881B 
+num_insns: 1
+instruction_count = 755
+insn thumb: 0x0000B2DB 
+num_insns: 2
+instruction_count = 756
+insn thumb: 0x00002B00 
+num_insns: 3
+instruction_count = 757
+insn thumb: 0x0000D044 
+num_insns: 4
+instruction_count = 758
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 759
+insn thumb: 0x0000681B 
+num_insns: 1
+instruction_count = 760
+insn thumb: 0x0000617B 
+num_insns: 2
+instruction_count = 761
+insn thumb: 0x00002300 
+num_insns: 3
+instruction_count = 762
+insn thumb: 0x000061BB 
+num_insns: 4
+instruction_count = 763
+insn thumb: 0x0000E038 
+num_insns: 5
+instruction_count = 764
+insn thumb: 0x000069BB 
+num_insns: 0
+instruction_count = 765
+insn thumb: 0x00002B07 
+num_insns: 1
+instruction_count = 766
+insn thumb: 0x0000D9C3 
+num_insns: 2
+instruction_count = 767
+insn thumb: 0x00002201 
+num_insns: 0
+instruction_count = 768
+insn thumb: 0x000069BB 
+num_insns: 1
+instruction_count = 769
+insn thumb: 0x0000FA02 
+instruction count = 770
+insn thumb 2: 0x0000F303 *********
+num_insns: 2
+instruction_count = 771
+insn thumb: 0x000060FB 
+num_insns: 3
+instruction_count = 772
+insn thumb: 0x0000683B 
+num_insns: 4
+instruction_count = 773
+insn thumb: 0x0000881B 
+num_insns: 5
+instruction_count = 774
+insn thumb: 0x0000461A 
+num_insns: 6
+instruction_count = 775
+insn thumb: 0x000068FB 
+num_insns: 7
+instruction_count = 776
+insn thumb: 0x00004013 
+num_insns: 8
+instruction_count = 777
+insn thumb: 0x0000613B 
+num_insns: 9
+instruction_count = 778
+insn thumb: 0x0000693A 
+num_insns: 10
+instruction_count = 779
+insn thumb: 0x000068FB 
+num_insns: 11
+instruction_count = 780
+insn thumb: 0x0000429A 
+num_insns: 12
+instruction_count = 781
+insn thumb: 0x0000D126 
+num_insns: 13
+instruction_count = 782
+insn thumb: 0x000069BB 
+num_insns: 0
+instruction_count = 783
+insn thumb: 0x00003301 
+num_insns: 1
+instruction_count = 784
+insn thumb: 0x000061BB 
+num_insns: 2
+instruction_count = 785
+insn thumb: 0x000069BB 
+num_insns: 3
+instruction_count = 786
+insn thumb: 0x00002B07 
+num_insns: 4
+instruction_count = 787
+insn thumb: 0x0000D9C3 
+num_insns: 5
+instruction_count = 788
+insn thumb: 0x000069BB 
+num_insns: 0
+instruction_count = 789
+insn thumb: 0x0000009B 
+num_insns: 1
+instruction_count = 790
+insn thumb: 0x000060FB 
+num_insns: 2
+instruction_count = 791
+insn thumb: 0x0000220F 
+num_insns: 3
+instruction_count = 792
+insn thumb: 0x000068FB 
+num_insns: 4
+instruction_count = 793
+insn thumb: 0x0000FA02 
+instruction count = 794
+insn thumb 2: 0x0000F303 *********
+num_insns: 5
+instruction_count = 795
+insn thumb: 0x000060BB 
+num_insns: 6
+instruction_count = 796
+insn thumb: 0x000068BB 
+num_insns: 7
+instruction_count = 797
+insn thumb: 0x000043DB 
+num_insns: 8
+instruction_count = 798
+insn thumb: 0x0000697A 
+num_insns: 9
+instruction_count = 799
+insn thumb: 0x00004013 
+num_insns: 10
+instruction_count = 800
+insn thumb: 0x0000617B 
+num_insns: 11
+instruction_count = 801
+insn thumb: 0x000069FA 
+num_insns: 12
+instruction_count = 802
+insn thumb: 0x000068FB 
+num_insns: 13
+instruction_count = 803
+insn thumb: 0x0000FA02 
+instruction count = 804
+insn thumb 2: 0x0000F303 *********
+num_insns: 14
+instruction_count = 805
+insn thumb: 0x0000697A 
+num_insns: 15
+instruction_count = 806
+insn thumb: 0x00004313 
+num_insns: 16
+instruction_count = 807
+insn thumb: 0x0000617B 
+num_insns: 17
+instruction_count = 808
+insn thumb: 0x0000683B 
+num_insns: 18
+instruction_count = 809
+insn thumb: 0x000078DB 
+num_insns: 19
+instruction_count = 810
+insn thumb: 0x00002B28 
+num_insns: 20
+instruction_count = 811
+insn thumb: 0x0000D105 
+num_insns: 21
+instruction_count = 812
+insn thumb: 0x0000683B 
+num_insns: 0
+instruction_count = 813
+insn thumb: 0x000078DB 
+num_insns: 1
+instruction_count = 814
+insn thumb: 0x00002B48 
+num_insns: 2
+instruction_count = 815
+insn thumb: 0x0000D104 
+num_insns: 3
+instruction_count = 816
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 817
+insn thumb: 0x0000697A 
+num_insns: 1
+instruction_count = 818
+insn thumb: 0x0000601A 
+num_insns: 2
+instruction_count = 819
+insn thumb: 0x0000683B 
+num_insns: 3
+instruction_count = 820
+insn thumb: 0x0000881B 
+num_insns: 4
+instruction_count = 821
+insn thumb: 0x00002BFF 
+num_insns: 5
+instruction_count = 822
+insn thumb: 0x0000D946 
+num_insns: 6
+instruction_count = 823
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 824
+insn thumb: 0x00003724 
+num_insns: 1
+instruction_count = 825
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 826
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 827
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 828
+insn thumb: 0x00002304 
+num_insns: 0
+instruction_count = 829
+insn thumb: 0x000080BB 
+num_insns: 1
+instruction_count = 830
+insn thumb: 0x00002303 
+num_insns: 2
+instruction_count = 831
+insn thumb: 0x000071BB 
+num_insns: 3
+instruction_count = 832
+insn thumb: 0x00002318 
+num_insns: 4
+instruction_count = 833
+insn thumb: 0x000071FB 
+num_insns: 5
+instruction_count = 834
+insn thumb: 0x00001D3B 
+num_insns: 6
+instruction_count = 835
+insn thumb: 0x00004619 
+num_insns: 7
+instruction_count = 836
+insn thumb: 0x0000480F 
+num_insns: 8
+instruction_count = 837
+insn thumb: 0x0000F001 
+instruction count = 838
+insn thumb 2: 0x0000F998 *********
+num_insns: 9
+instruction_count = 839
+insn thumb: 0x0000F44F 
+instruction count = 840
+insn thumb 2: 0x00005316 *********
+num_insns: 0
+instruction_count = 841
+insn thumb: 0x000060BB 
+num_insns: 1
+instruction_count = 842
+insn thumb: 0x00002300 
+num_insns: 2
+instruction_count = 843
+insn thumb: 0x000081BB 
+num_insns: 3
+instruction_count = 844
+insn thumb: 0x00002300 
+num_insns: 4
+instruction_count = 845
+insn thumb: 0x000081FB 
+num_insns: 5
+instruction_count = 846
+insn thumb: 0x00002300 
+num_insns: 6
+instruction_count = 847
+insn thumb: 0x0000823B 
+num_insns: 7
+instruction_count = 848
+insn thumb: 0x00002300 
+num_insns: 8
+instruction_count = 849
+insn thumb: 0x000082BB 
+num_insns: 9
+instruction_count = 850
+insn thumb: 0x0000230C 
+num_insns: 10
+instruction_count = 851
+insn thumb: 0x0000827B 
+num_insns: 11
+instruction_count = 852
+insn thumb: 0x0000F107 
+instruction count = 853
+insn thumb 2: 0x00000308 *********
+num_insns: 12
+instruction_count = 854
+insn thumb: 0x00004619 
+num_insns: 13
+instruction_count = 855
+insn thumb: 0x00004806 
+num_insns: 14
+instruction_count = 856
+insn thumb: 0x0000F001 
+instruction count = 857
+insn thumb 2: 0x0000FC51 *********
+num_insns: 15
+instruction_count = 858
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 859
+insn thumb: 0x0000B08C 
+num_insns: 1
+instruction_count = 860
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 861
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 862
+insn thumb: 0x00006039 
+num_insns: 4
+instruction_count = 863
+insn thumb: 0x00002300 
+num_insns: 5
+instruction_count = 864
+insn thumb: 0x000062FB 
+num_insns: 6
+instruction_count = 865
+insn thumb: 0x00002300 
+num_insns: 7
+instruction_count = 866
+insn thumb: 0x000062BB 
+num_insns: 8
+instruction_count = 867
+insn thumb: 0x00002300 
+num_insns: 9
+instruction_count = 868
+insn thumb: 0x0000627B 
+num_insns: 10
+instruction_count = 869
+insn thumb: 0x00002300 
+num_insns: 11
+instruction_count = 870
+insn thumb: 0x0000623B 
+num_insns: 12
+instruction_count = 871
+insn thumb: 0x00002300 
+num_insns: 13
+instruction_count = 872
+insn thumb: 0x000061FB 
+num_insns: 14
+instruction_count = 873
+insn thumb: 0x0000687B 
+num_insns: 15
+instruction_count = 874
+insn thumb: 0x000061FB 
+num_insns: 16
+instruction_count = 875
+insn thumb: 0x0000687B 
+num_insns: 17
+instruction_count = 876
+insn thumb: 0x00008A1B 
+num_insns: 18
+instruction_count = 877
+insn thumb: 0x0000B29B 
+num_insns: 19
+instruction_count = 878
+insn thumb: 0x000062FB 
+num_insns: 20
+instruction_count = 879
+insn thumb: 0x00006AFA 
+num_insns: 21
+instruction_count = 880
+insn thumb: 0x0000F64C 
+instruction count = 881
+insn thumb 2: 0x000073FF *********
+num_insns: 22
+instruction_count = 882
+insn thumb: 0x00004013 
+num_insns: 23
+instruction_count = 883
+insn thumb: 0x000062FB 
+num_insns: 24
+instruction_count = 884
+insn thumb: 0x0000683B 
+num_insns: 25
+instruction_count = 885
+insn thumb: 0x000088DB 
+num_insns: 26
+instruction_count = 886
+insn thumb: 0x0000461A 
+num_insns: 27
+instruction_count = 887
+insn thumb: 0x00006AFB 
+num_insns: 28
+instruction_count = 888
+insn thumb: 0x00004313 
+num_insns: 29
+instruction_count = 889
+insn thumb: 0x000062FB 
+num_insns: 30
+instruction_count = 890
+insn thumb: 0x00006AFB 
+num_insns: 31
+instruction_count = 891
+insn thumb: 0x0000B29A 
+num_insns: 32
+instruction_count = 892
+insn thumb: 0x0000687B 
+num_insns: 33
+instruction_count = 893
+insn thumb: 0x0000821A 
+num_insns: 34
+instruction_count = 894
+insn thumb: 0x0000687B 
+num_insns: 35
+instruction_count = 895
+insn thumb: 0x0000899B 
+num_insns: 36
+instruction_count = 896
+insn thumb: 0x0000B29B 
+num_insns: 37
+instruction_count = 897
+insn thumb: 0x000062FB 
+num_insns: 38
+instruction_count = 898
+insn thumb: 0x00006AFA 
+num_insns: 39
+instruction_count = 899
+insn thumb: 0x0000F64E 
+instruction count = 900
+insn thumb 2: 0x000013F3 *********
+num_insns: 40
+instruction_count = 901
+insn thumb: 0x00004013 
+num_insns: 41
+instruction_count = 902
+insn thumb: 0x000062FB 
+num_insns: 42
+instruction_count = 903
+insn thumb: 0x0000683B 
+num_insns: 43
+instruction_count = 904
+insn thumb: 0x0000889A 
+num_insns: 44
+instruction_count = 905
+insn thumb: 0x0000683B 
+num_insns: 45
+instruction_count = 906
+insn thumb: 0x0000891B 
+num_insns: 46
+instruction_count = 907
+insn thumb: 0x00004313 
+num_insns: 47
+instruction_count = 908
+insn thumb: 0x0000B29A 
+num_insns: 48
+instruction_count = 909
+insn thumb: 0x0000683B 
+num_insns: 49
+instruction_count = 910
+insn thumb: 0x0000895B 
+num_insns: 50
+instruction_count = 911
+insn thumb: 0x00004313 
+num_insns: 51
+instruction_count = 912
+insn thumb: 0x0000B29B 
+num_insns: 52
+instruction_count = 913
+insn thumb: 0x0000461A 
+num_insns: 53
+instruction_count = 914
+insn thumb: 0x00006AFB 
+num_insns: 54
+instruction_count = 915
+insn thumb: 0x00004313 
+num_insns: 55
+instruction_count = 916
+insn thumb: 0x000062FB 
+num_insns: 56
+instruction_count = 917
+insn thumb: 0x00006AFB 
+num_insns: 57
+instruction_count = 918
+insn thumb: 0x0000B29A 
+num_insns: 58
+instruction_count = 919
+insn thumb: 0x0000687B 
+num_insns: 59
+instruction_count = 920
+insn thumb: 0x0000819A 
+num_insns: 0
+instruction_count = 921
+insn thumb: 0x0000687B 
+num_insns: 1
+instruction_count = 922
+insn thumb: 0x00008A9B 
+num_insns: 2
+instruction_count = 923
+insn thumb: 0x0000B29B 
+num_insns: 3
+instruction_count = 924
+insn thumb: 0x000062FB 
+num_insns: 4
+instruction_count = 925
+insn thumb: 0x00006AFA 
+num_insns: 5
+instruction_count = 926
+insn thumb: 0x0000F64F 
+instruction count = 927
+insn thumb 2: 0x000043FF *********
+num_insns: 6
+instruction_count = 928
+insn thumb: 0x00004013 
+num_insns: 7
+instruction_count = 929
+insn thumb: 0x000062FB 
+num_insns: 8
+instruction_count = 930
+insn thumb: 0x0000683B 
+num_insns: 9
+instruction_count = 931
+insn thumb: 0x0000899B 
+num_insns: 10
+instruction_count = 932
+insn thumb: 0x0000461A 
+num_insns: 11
+instruction_count = 933
+insn thumb: 0x00006AFB 
+num_insns: 12
+instruction_count = 934
+insn thumb: 0x00004313 
+num_insns: 13
+instruction_count = 935
+insn thumb: 0x000062FB 
+num_insns: 14
+instruction_count = 936
+insn thumb: 0x00006AFB 
+num_insns: 15
+instruction_count = 937
+insn thumb: 0x0000B29A 
+num_insns: 16
+instruction_count = 938
+insn thumb: 0x0000687B 
+num_insns: 17
+instruction_count = 939
+insn thumb: 0x0000829A 
+num_insns: 18
+instruction_count = 940
+insn thumb: 0x0000F107 
+instruction count = 941
+insn thumb 2: 0x00000308 *********
+num_insns: 19
+instruction_count = 942
+insn thumb: 0x00004618 
+num_insns: 20
+instruction_count = 943
+insn thumb: 0x0000F7FF 
+instruction count = 944
+insn thumb 2: 0x0000FA77 *********
+num_insns: 21
+instruction_count = 945
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 946
+insn thumb: 0x0000B087 
+num_insns: 1
+instruction_count = 947
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 948
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 949
+insn thumb: 0x00002300 
+num_insns: 4
+instruction_count = 950
+insn thumb: 0x0000617B 
+num_insns: 5
+instruction_count = 951
+insn thumb: 0x00002300 
+num_insns: 6
+instruction_count = 952
+insn thumb: 0x0000613B 
+num_insns: 7
+instruction_count = 953
+insn thumb: 0x00002300 
+num_insns: 8
+instruction_count = 954
+insn thumb: 0x000060FB 
+num_insns: 9
+instruction_count = 955
+insn thumb: 0x00002300 
+num_insns: 10
+instruction_count = 956
+insn thumb: 0x000060BB 
+num_insns: 11
+instruction_count = 957
+insn thumb: 0x00004B4C 
+num_insns: 12
+instruction_count = 958
+insn thumb: 0x0000685B 
+num_insns: 13
+instruction_count = 959
+insn thumb: 0x0000F003 
+instruction count = 960
+insn thumb 2: 0x0000030C *********
+num_insns: 14
+instruction_count = 961
+insn thumb: 0x0000617B 
+num_insns: 15
+instruction_count = 962
+insn thumb: 0x0000697B 
+num_insns: 16
+instruction_count = 963
+insn thumb: 0x00002B04 
+num_insns: 17
+instruction_count = 964
+insn thumb: 0x0000D007 
+num_insns: 18
+instruction_count = 965
+insn thumb: 0x00002B08 
+num_insns: 0
+instruction_count = 966
+insn thumb: 0x0000D009 
+num_insns: 1
+instruction_count = 967
+insn thumb: 0x00004B42 
+num_insns: 0
+instruction_count = 968
+insn thumb: 0x0000685B 
+num_insns: 1
+instruction_count = 969
+insn thumb: 0x0000F403 
+instruction count = 970
+insn thumb 2: 0x00001370 *********
+num_insns: 2
+instruction_count = 971
+insn thumb: 0x0000613B 
+num_insns: 3
+instruction_count = 972
+insn thumb: 0x00004B40 
+num_insns: 4
+instruction_count = 973
+insn thumb: 0x0000685B 
+num_insns: 5
+instruction_count = 974
+insn thumb: 0x0000F403 
+instruction count = 975
+insn thumb 2: 0x00003380 *********
+num_insns: 6
+instruction_count = 976
+insn thumb: 0x000060FB 
+num_insns: 7
+instruction_count = 977
+insn thumb: 0x0000693B 
+num_insns: 8
+instruction_count = 978
+insn thumb: 0x00000C9B 
+num_insns: 9
+instruction_count = 979
+insn thumb: 0x00003302 
+num_insns: 10
+instruction_count = 980
+insn thumb: 0x0000613B 
+num_insns: 11
+instruction_count = 981
+insn thumb: 0x000068FB 
+num_insns: 12
+instruction_count = 982
+insn thumb: 0x00002B00 
+num_insns: 13
+instruction_count = 983
+insn thumb: 0x0000D106 
+num_insns: 14
+instruction_count = 984
+insn thumb: 0x00004B36 
+num_insns: 0
+instruction_count = 985
+insn thumb: 0x0000685B 
+num_insns: 1
+instruction_count = 986
+insn thumb: 0x0000F403 
+instruction count = 987
+insn thumb 2: 0x00003300 *********
+num_insns: 2
+instruction_count = 988
+insn thumb: 0x00002B00 
+num_insns: 3
+instruction_count = 989
+insn thumb: 0x0000D006 
+num_insns: 4
+instruction_count = 990
+insn thumb: 0x0000693B 
+num_insns: 0
+instruction_count = 991
+insn thumb: 0x00004A30 
+num_insns: 1
+instruction_count = 992
+insn thumb: 0x0000FB02 
+instruction count = 993
+insn thumb 2: 0x0000F203 *********
+num_insns: 2
+instruction_count = 994
+insn thumb: 0x0000687B 
+num_insns: 3
+instruction_count = 995
+insn thumb: 0x0000601A 
+num_insns: 4
+instruction_count = 996
+insn thumb: 0x0000E003 
+num_insns: 5
+instruction_count = 997
+insn thumb: 0x00004B2A 
+num_insns: 0
+instruction_count = 998
+insn thumb: 0x0000685B 
+num_insns: 1
+instruction_count = 999
+insn thumb: 0x0000F003 
+instruction count = 1000
+insn thumb 2: 0x000003F0 *********
+num_insns: 2
+instruction_count = 1001
+insn thumb: 0x0000617B 
+num_insns: 3
+instruction_count = 1002
+insn thumb: 0x0000697B 
+num_insns: 4
+instruction_count = 1003
+insn thumb: 0x0000091B 
+num_insns: 5
+instruction_count = 1004
+insn thumb: 0x0000617B 
+num_insns: 6
+instruction_count = 1005
+insn thumb: 0x00004A29 
+num_insns: 7
+instruction_count = 1006
+insn thumb: 0x0000697B 
+num_insns: 8
+instruction_count = 1007
+insn thumb: 0x00004413 
+num_insns: 9
+instruction_count = 1008
+insn thumb: 0x0000781B 
+num_insns: 10
+instruction_count = 1009
+insn thumb: 0x0000B2DB 
+num_insns: 11
+instruction_count = 1010
+insn thumb: 0x000060BB 
+num_insns: 12
+instruction_count = 1011
+insn thumb: 0x0000687B 
+num_insns: 13
+instruction_count = 1012
+insn thumb: 0x0000681A 
+num_insns: 14
+instruction_count = 1013
+insn thumb: 0x000068BB 
+num_insns: 15
+instruction_count = 1014
+insn thumb: 0x000040DA 
+num_insns: 16
+instruction_count = 1015
+insn thumb: 0x0000687B 
+num_insns: 17
+instruction_count = 1016
+insn thumb: 0x0000605A 
+num_insns: 18
+instruction_count = 1017
+insn thumb: 0x00004B20 
+num_insns: 19
+instruction_count = 1018
+insn thumb: 0x0000685B 
+num_insns: 20
+instruction_count = 1019
+insn thumb: 0x0000F403 
+instruction count = 1020
+insn thumb 2: 0x000063E0 *********
+num_insns: 21
+instruction_count = 1021
+insn thumb: 0x0000617B 
+num_insns: 22
+instruction_count = 1022
+insn thumb: 0x0000697B 
+num_insns: 23
+instruction_count = 1023
+insn thumb: 0x00000A1B 
+num_insns: 24
+instruction_count = 1024
+insn thumb: 0x0000617B 
+num_insns: 25
+instruction_count = 1025
+insn thumb: 0x00004A1F 
+num_insns: 26
+instruction_count = 1026
+insn thumb: 0x0000697B 
+num_insns: 27
+instruction_count = 1027
+insn thumb: 0x00004413 
+num_insns: 28
+instruction_count = 1028
+insn thumb: 0x0000781B 
+num_insns: 29
+instruction_count = 1029
+insn thumb: 0x0000B2DB 
+num_insns: 30
+instruction_count = 1030
+insn thumb: 0x000060BB 
+num_insns: 31
+instruction_count = 1031
+insn thumb: 0x0000687B 
+num_insns: 32
+instruction_count = 1032
+insn thumb: 0x0000685A 
+num_insns: 33
+instruction_count = 1033
+insn thumb: 0x000068BB 
+num_insns: 34
+instruction_count = 1034
+insn thumb: 0x000040DA 
+num_insns: 35
+instruction_count = 1035
+insn thumb: 0x0000687B 
+num_insns: 36
+instruction_count = 1036
+insn thumb: 0x0000609A 
+num_insns: 37
+instruction_count = 1037
+insn thumb: 0x00004B16 
+num_insns: 38
+instruction_count = 1038
+insn thumb: 0x0000685B 
+num_insns: 39
+instruction_count = 1039
+insn thumb: 0x0000F403 
+instruction count = 1040
+insn thumb 2: 0x00005360 *********
+num_insns: 40
+instruction_count = 1041
+insn thumb: 0x0000617B 
+num_insns: 41
+instruction_count = 1042
+insn thumb: 0x0000697B 
+num_insns: 42
+instruction_count = 1043
+insn thumb: 0x00000ADB 
+num_insns: 43
+instruction_count = 1044
+insn thumb: 0x0000617B 
+num_insns: 44
+instruction_count = 1045
+insn thumb: 0x00004A15 
+num_insns: 45
+instruction_count = 1046
+insn thumb: 0x0000697B 
+num_insns: 46
+instruction_count = 1047
+insn thumb: 0x00004413 
+num_insns: 47
+instruction_count = 1048
+insn thumb: 0x0000781B 
+num_insns: 48
+instruction_count = 1049
+insn thumb: 0x0000B2DB 
+num_insns: 49
+instruction_count = 1050
+insn thumb: 0x000060BB 
+num_insns: 50
+instruction_count = 1051
+insn thumb: 0x0000687B 
+num_insns: 51
+instruction_count = 1052
+insn thumb: 0x0000685A 
+num_insns: 52
+instruction_count = 1053
+insn thumb: 0x000068BB 
+num_insns: 53
+instruction_count = 1054
+insn thumb: 0x000040DA 
+num_insns: 54
+instruction_count = 1055
+insn thumb: 0x0000687B 
+num_insns: 55
+instruction_count = 1056
+insn thumb: 0x000060DA 
+num_insns: 56
+instruction_count = 1057
+insn thumb: 0x00004B0C 
+num_insns: 57
+instruction_count = 1058
+insn thumb: 0x0000685B 
+num_insns: 58
+instruction_count = 1059
+insn thumb: 0x0000F403 
+instruction count = 1060
+insn thumb 2: 0x00004340 *********
+num_insns: 59
+instruction_count = 1061
+insn thumb: 0x0000617B 
+num_insns: 60
+instruction_count = 1062
+insn thumb: 0x0000697B 
+num_insns: 61
+instruction_count = 1063
+insn thumb: 0x00000B9B 
+num_insns: 62
+instruction_count = 1064
+insn thumb: 0x0000617B 
+num_insns: 63
+instruction_count = 1065
+insn thumb: 0x00004A0C 
+num_insns: 64
+instruction_count = 1066
+insn thumb: 0x0000697B 
+num_insns: 65
+instruction_count = 1067
+insn thumb: 0x00004413 
+num_insns: 66
+instruction_count = 1068
+insn thumb: 0x0000781B 
+num_insns: 67
+instruction_count = 1069
+insn thumb: 0x0000B2DB 
+num_insns: 68
+instruction_count = 1070
+insn thumb: 0x000060BB 
+num_insns: 69
+instruction_count = 1071
+insn thumb: 0x0000687B 
+num_insns: 70
+instruction_count = 1072
+insn thumb: 0x000068DA 
+num_insns: 71
+instruction_count = 1073
+insn thumb: 0x000068BB 
+num_insns: 72
+instruction_count = 1074
+insn thumb: 0x0000FBB2 
+instruction count = 1075
+insn thumb 2: 0x0000F2F3 *********
+num_insns: 73
+instruction_count = 1076
+insn thumb: 0x0000687B 
+num_insns: 74
+instruction_count = 1077
+insn thumb: 0x0000611A 
+num_insns: 75
+instruction_count = 1078
+insn thumb: 0x0000BF00 
+num_insns: 76
+instruction_count = 1079
+insn thumb: 0x0000371C 
+num_insns: 77
+instruction_count = 1080
+insn thumb: 0x000046BD 
+num_insns: 0
+instruction_count = 1081
+insn thumb: 0x0000BC80 
+num_insns: 1
+instruction_count = 1082
+insn thumb: 0x00004770 
+num_insns: 2
+instruction_count = 1083
+insn thumb: 0x000069FB 
+num_insns: 0
+instruction_count = 1084
+insn thumb: 0x00004A2E 
+num_insns: 1
+instruction_count = 1085
+insn thumb: 0x00004293 
+num_insns: 2
+instruction_count = 1086
+insn thumb: 0x0000D102 
+num_insns: 3
+instruction_count = 1087
+insn thumb: 0x0000693B 
+num_insns: 0
+instruction_count = 1088
+insn thumb: 0x000062BB 
+num_insns: 1
+instruction_count = 1089
+insn thumb: 0x0000687B 
+num_insns: 2
+instruction_count = 1090
+insn thumb: 0x0000899B 
+num_insns: 3
+instruction_count = 1091
+insn thumb: 0x0000B29B 
+num_insns: 4
+instruction_count = 1092
+insn thumb: 0x0000B21B 
+num_insns: 5
+instruction_count = 1093
+insn thumb: 0x00002B00 
+num_insns: 6
+instruction_count = 1094
+insn thumb: 0x0000DA0C 
+num_insns: 7
+instruction_count = 1095
+insn thumb: 0x00006ABA 
+num_insns: 0
+instruction_count = 1096
+insn thumb: 0x00004613 
+num_insns: 1
+instruction_count = 1097
+insn thumb: 0x0000009B 
+num_insns: 2
+instruction_count = 1098
+insn thumb: 0x00004413 
+num_insns: 3
+instruction_count = 1099
+insn thumb: 0x0000009A 
+num_insns: 4
+instruction_count = 1100
+insn thumb: 0x0000441A 
+num_insns: 5
+instruction_count = 1101
+insn thumb: 0x0000683B 
+num_insns: 6
+instruction_count = 1102
+insn thumb: 0x0000681B 
+num_insns: 7
+instruction_count = 1103
+insn thumb: 0x0000009B 
+num_insns: 8
+instruction_count = 1104
+insn thumb: 0x0000FBB2 
+instruction count = 1105
+insn thumb 2: 0x0000F3F3 *********
+num_insns: 9
+instruction_count = 1106
+insn thumb: 0x0000627B 
+num_insns: 10
+instruction_count = 1107
+insn thumb: 0x00006A7B 
+num_insns: 11
+instruction_count = 1108
+insn thumb: 0x00004A1B 
+num_insns: 12
+instruction_count = 1109
+insn thumb: 0x0000FBA2 
+instruction count = 1110
+insn thumb 2: 0x00002303 *********
+num_insns: 13
+instruction_count = 1111
+insn thumb: 0x0000095B 
+num_insns: 14
+instruction_count = 1112
+insn thumb: 0x0000011B 
+num_insns: 15
+instruction_count = 1113
+insn thumb: 0x000062FB 
+num_insns: 16
+instruction_count = 1114
+insn thumb: 0x00006AFB 
+num_insns: 17
+instruction_count = 1115
+insn thumb: 0x0000091B 
+num_insns: 18
+instruction_count = 1116
+insn thumb: 0x00002264 
+num_insns: 19
+instruction_count = 1117
+insn thumb: 0x0000FB02 
+instruction count = 1118
+insn thumb 2: 0x0000F303 *********
+num_insns: 20
+instruction_count = 1119
+insn thumb: 0x00006A7A 
+num_insns: 21
+instruction_count = 1120
+insn thumb: 0x00001AD3 
+num_insns: 22
+instruction_count = 1121
+insn thumb: 0x0000623B 
+num_insns: 23
+instruction_count = 1122
+insn thumb: 0x0000687B 
+num_insns: 24
+instruction_count = 1123
+insn thumb: 0x0000899B 
+num_insns: 25
+instruction_count = 1124
+insn thumb: 0x0000B29B 
+num_insns: 26
+instruction_count = 1125
+insn thumb: 0x0000B21B 
+num_insns: 27
+instruction_count = 1126
+insn thumb: 0x00002B00 
+num_insns: 28
+instruction_count = 1127
+insn thumb: 0x0000DA0C 
+num_insns: 29
+instruction_count = 1128
+insn thumb: 0x00006A3B 
+num_insns: 0
+instruction_count = 1129
+insn thumb: 0x0000011B 
+num_insns: 1
+instruction_count = 1130
+insn thumb: 0x00003332 
+num_insns: 2
+instruction_count = 1131
+insn thumb: 0x00004A09 
+num_insns: 3
+instruction_count = 1132
+insn thumb: 0x0000FBA2 
+instruction count = 1133
+insn thumb 2: 0x00002303 *********
+num_insns: 4
+instruction_count = 1134
+insn thumb: 0x0000095B 
+num_insns: 5
+instruction_count = 1135
+insn thumb: 0x0000F003 
+instruction count = 1136
+insn thumb 2: 0x0000030F *********
+num_insns: 6
+instruction_count = 1137
+insn thumb: 0x00006AFA 
+num_insns: 7
+instruction_count = 1138
+insn thumb: 0x00004313 
+num_insns: 8
+instruction_count = 1139
+insn thumb: 0x000062FB 
+num_insns: 9
+instruction_count = 1140
+insn thumb: 0x00006AFB 
+num_insns: 10
+instruction_count = 1141
+insn thumb: 0x0000B29A 
+num_insns: 11
+instruction_count = 1142
+insn thumb: 0x0000687B 
+num_insns: 12
+instruction_count = 1143
+insn thumb: 0x0000811A 
+num_insns: 13
+instruction_count = 1144
+insn thumb: 0x0000BF00 
+num_insns: 14
+instruction_count = 1145
+insn thumb: 0x00003730 
+num_insns: 15
+instruction_count = 1146
+insn thumb: 0x000046BD 
+num_insns: 16
+instruction_count = 1147
+insn thumb: 0x0000BD80 
+num_insns: 17
+instruction_count = 1148
+insn thumb: 0x00002101 
+num_insns: 0
+instruction_count = 1149
+insn thumb: 0x00004804 
+num_insns: 1
+instruction_count = 1150
+insn thumb: 0x0000F001 
+instruction count = 1151
+insn thumb 2: 0x0000FD63 *********
+num_insns: 2
+instruction_count = 1152
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1153
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 1154
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1155
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1156
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 1157
+insn thumb: 0x000070FB 
+num_insns: 5
+instruction_count = 1158
+insn thumb: 0x000078FB 
+num_insns: 6
+instruction_count = 1159
+insn thumb: 0x00002B00 
+num_insns: 7
+instruction_count = 1160
+insn thumb: 0x0000D008 
+num_insns: 8
+instruction_count = 1161
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 1162
+insn thumb: 0x0000899B 
+num_insns: 1
+instruction_count = 1163
+insn thumb: 0x0000B29B 
+num_insns: 2
+instruction_count = 1164
+insn thumb: 0x0000F443 
+instruction count = 1165
+insn thumb 2: 0x00005300 *********
+num_insns: 3
+instruction_count = 1166
+insn thumb: 0x0000B29A 
+num_insns: 4
+instruction_count = 1167
+insn thumb: 0x0000687B 
+num_insns: 5
+instruction_count = 1168
+insn thumb: 0x0000819A 
+num_insns: 6
+instruction_count = 1169
+insn thumb: 0x0000E007 
+num_insns: 7
+instruction_count = 1170
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 1171
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 1172
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 1173
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 1174
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 1175
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 1176
+insn thumb: 0x00003718 
+num_insns: 1
+instruction_count = 1177
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 1178
+insn thumb: 0x0000BD80 
+num_insns: 3
+instruction_count = 1179
+insn thumb: 0x00002101 
+num_insns: 0
+instruction_count = 1180
+insn thumb: 0x0000484C 
+num_insns: 1
+instruction_count = 1181
+insn thumb: 0x0000F7FC 
+instruction count = 1182
+insn thumb 2: 0x0000FB7A *********
+num_insns: 2
+instruction_count = 1183
+insn thumb: 0x00002300 
+num_insns: 0
+instruction_count = 1184
+insn thumb: 0x000065FB 
+num_insns: 1
+instruction_count = 1185
+insn thumb: 0x00002300 
+num_insns: 2
+instruction_count = 1186
+insn thumb: 0x0000657B 
+num_insns: 3
+instruction_count = 1187
+insn thumb: 0x0000E058 
+num_insns: 4
+instruction_count = 1188
+insn thumb: 0x00002120 
+num_insns: 0
+instruction_count = 1189
+insn thumb: 0x0000481B 
+num_insns: 1
+instruction_count = 1190
+insn thumb: 0x0000F7FC 
+instruction count = 1191
+insn thumb 2: 0x0000FD72 *********
+num_insns: 2
+instruction_count = 1192
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1193
+insn thumb: 0x0000B085 
+num_insns: 1
+instruction_count = 1194
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1195
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1196
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 1197
+insn thumb: 0x0000807B 
+num_insns: 5
+instruction_count = 1198
+insn thumb: 0x00002300 
+num_insns: 6
+instruction_count = 1199
+insn thumb: 0x000073FB 
+num_insns: 7
+instruction_count = 1200
+insn thumb: 0x0000687B 
+num_insns: 8
+instruction_count = 1201
+insn thumb: 0x0000881B 
+num_insns: 9
+instruction_count = 1202
+insn thumb: 0x0000B29A 
+num_insns: 10
+instruction_count = 1203
+insn thumb: 0x0000887B 
+num_insns: 11
+instruction_count = 1204
+insn thumb: 0x00004013 
+num_insns: 12
+instruction_count = 1205
+insn thumb: 0x0000B29B 
+num_insns: 13
+instruction_count = 1206
+insn thumb: 0x00002B00 
+num_insns: 14
+instruction_count = 1207
+insn thumb: 0x0000D002 
+num_insns: 15
+instruction_count = 1208
+insn thumb: 0x00002300 
+num_insns: 0
+instruction_count = 1209
+insn thumb: 0x000073FB 
+num_insns: 1
+instruction_count = 1210
+insn thumb: 0x00007BFB 
+num_insns: 2
+instruction_count = 1211
+insn thumb: 0x00004618 
+num_insns: 3
+instruction_count = 1212
+insn thumb: 0x00003714 
+num_insns: 4
+instruction_count = 1213
+insn thumb: 0x000046BD 
+num_insns: 5
+instruction_count = 1214
+insn thumb: 0x0000BC80 
+num_insns: 6
+instruction_count = 1215
+insn thumb: 0x00004770 
+num_insns: 7
+instruction_count = 1216
+insn thumb: 0x00004603 
+num_insns: 0
+instruction_count = 1217
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1218
+insn thumb: 0x0000D09F 
+num_insns: 2
+instruction_count = 1219
+insn thumb: 0x00006D7B 
+num_insns: 0
+instruction_count = 1220
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1221
+insn thumb: 0x0000D15D 
+num_insns: 2
+instruction_count = 1222
+insn thumb: 0x0000F04F 
+instruction count = 1223
+insn thumb 2: 0x00004080 *********
+num_insns: 0
+instruction_count = 1224
+insn thumb: 0x0000F7FF 
+instruction count = 1225
+insn thumb 2: 0x0000F8E5 *********
+num_insns: 1
+instruction_count = 1226
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1227
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 1228
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1229
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1230
+insn thumb: 0x0000687B 
+num_insns: 4
+instruction_count = 1231
+insn thumb: 0x00008C9B 
+num_insns: 5
+instruction_count = 1232
+insn thumb: 0x0000B29B 
+num_insns: 6
+instruction_count = 1233
+insn thumb: 0x00004618 
+num_insns: 7
+instruction_count = 1234
+insn thumb: 0x0000370C 
+num_insns: 8
+instruction_count = 1235
+insn thumb: 0x000046BD 
+num_insns: 9
+instruction_count = 1236
+insn thumb: 0x0000BC80 
+num_insns: 10
+instruction_count = 1237
+insn thumb: 0x00004770 
+num_insns: 11
+instruction_count = 1238
+insn thumb: 0x00004603 
+num_insns: 0
+instruction_count = 1239
+insn thumb: 0x000087FB 
+num_insns: 1
+instruction_count = 1240
+insn thumb: 0x00006DBB 
+num_insns: 2
+instruction_count = 1241
+insn thumb: 0x00002B01 
+num_insns: 3
+instruction_count = 1242
+insn thumb: 0x0000D14C 
+num_insns: 4
+instruction_count = 1243
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 1244
+insn thumb: 0x0000AF00 
+num_insns: 1
+instruction_count = 1245
+insn thumb: 0x0000F240 
+instruction count = 1246
+insn thumb 2: 0x00007127 *********
+num_insns: 2
+instruction_count = 1247
+insn thumb: 0x0000F04F 
+instruction count = 1248
+insn thumb 2: 0x00004080 *********
+num_insns: 3
+instruction_count = 1249
+insn thumb: 0x0000F7FF 
+instruction count = 1250
+insn thumb 2: 0x0000F9F1 *********
+num_insns: 4
+instruction_count = 1251
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1252
+insn thumb: 0x0000B085 
+num_insns: 1
+instruction_count = 1253
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1254
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1255
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 1256
+insn thumb: 0x0000807B 
+num_insns: 5
+instruction_count = 1257
+insn thumb: 0x00002300 
+num_insns: 6
+instruction_count = 1258
+insn thumb: 0x000073FB 
+num_insns: 7
+instruction_count = 1259
+insn thumb: 0x00002300 
+num_insns: 8
+instruction_count = 1260
+insn thumb: 0x000081BB 
+num_insns: 9
+instruction_count = 1261
+insn thumb: 0x00002300 
+num_insns: 10
+instruction_count = 1262
+insn thumb: 0x0000817B 
+num_insns: 11
+instruction_count = 1263
+insn thumb: 0x0000687B 
+num_insns: 12
+instruction_count = 1264
+insn thumb: 0x00008A1B 
+num_insns: 13
+instruction_count = 1265
+insn thumb: 0x0000B29A 
+num_insns: 14
+instruction_count = 1266
+insn thumb: 0x0000887B 
+num_insns: 15
+instruction_count = 1267
+insn thumb: 0x00004013 
+num_insns: 16
+instruction_count = 1268
+insn thumb: 0x000081BB 
+num_insns: 17
+instruction_count = 1269
+insn thumb: 0x0000687B 
+num_insns: 18
+instruction_count = 1270
+insn thumb: 0x0000899B 
+num_insns: 19
+instruction_count = 1271
+insn thumb: 0x0000B29A 
+num_insns: 20
+instruction_count = 1272
+insn thumb: 0x0000887B 
+num_insns: 21
+instruction_count = 1273
+insn thumb: 0x00004013 
+num_insns: 22
+instruction_count = 1274
+insn thumb: 0x0000817B 
+num_insns: 23
+instruction_count = 1275
+insn thumb: 0x000089BB 
+num_insns: 24
+instruction_count = 1276
+insn thumb: 0x00002B00 
+num_insns: 25
+instruction_count = 1277
+insn thumb: 0x0000D005 
+num_insns: 26
+instruction_count = 1278
+insn thumb: 0x0000897B 
+num_insns: 0
+instruction_count = 1279
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1280
+insn thumb: 0x0000D002 
+num_insns: 2
+instruction_count = 1281
+insn thumb: 0x00002301 
+num_insns: 0
+instruction_count = 1282
+insn thumb: 0x000073FB 
+num_insns: 1
+instruction_count = 1283
+insn thumb: 0x0000E001 
+num_insns: 2
+instruction_count = 1284
+insn thumb: 0x00007BFB 
+num_insns: 0
+instruction_count = 1285
+insn thumb: 0x00004618 
+num_insns: 1
+instruction_count = 1286
+insn thumb: 0x00003714 
+num_insns: 2
+instruction_count = 1287
+insn thumb: 0x000046BD 
+num_insns: 3
+instruction_count = 1288
+insn thumb: 0x0000BC80 
+num_insns: 4
+instruction_count = 1289
+insn thumb: 0x00004770 
+num_insns: 5
+instruction_count = 1290
+insn thumb: 0x00004603 
+num_insns: 0
+instruction_count = 1291
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1292
+insn thumb: 0x0000D00A 
+num_insns: 2
+instruction_count = 1293
+insn thumb: 0x00004A06 
+num_insns: 0
+instruction_count = 1294
+insn thumb: 0x00004B06 
+num_insns: 1
+instruction_count = 1295
+insn thumb: 0x000068DB 
+num_insns: 2
+instruction_count = 1296
+insn thumb: 0x0000F483 
+instruction count = 1297
+insn thumb 2: 0x00005380 *********
+num_insns: 3
+instruction_count = 1298
+insn thumb: 0x000060D3 
+num_insns: 4
+instruction_count = 1299
+insn thumb: 0x00002101 
+num_insns: 5
+instruction_count = 1300
+insn thumb: 0x0000F04F 
+instruction count = 1301
+insn thumb 2: 0x00004080 *********
+num_insns: 6
+instruction_count = 1302
+insn thumb: 0x0000F7FF 
+instruction count = 1303
+insn thumb 2: 0x0000FA0C *********
+num_insns: 7
+instruction_count = 1304
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1305
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 1306
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1307
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1308
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 1309
+insn thumb: 0x0000807B 
+num_insns: 5
+instruction_count = 1310
+insn thumb: 0x0000887B 
+num_insns: 6
+instruction_count = 1311
+insn thumb: 0x000043DB 
+num_insns: 7
+instruction_count = 1312
+insn thumb: 0x0000B29A 
+num_insns: 8
+instruction_count = 1313
+insn thumb: 0x0000687B 
+num_insns: 9
+instruction_count = 1314
+insn thumb: 0x0000821A 
+num_insns: 10
+instruction_count = 1315
+insn thumb: 0x0000BF00 
+num_insns: 11
+instruction_count = 1316
+insn thumb: 0x0000370C 
+num_insns: 12
+instruction_count = 1317
+insn thumb: 0x000046BD 
+num_insns: 13
+instruction_count = 1318
+insn thumb: 0x0000BC80 
+num_insns: 14
+instruction_count = 1319
+insn thumb: 0x00004770 
+num_insns: 15
+instruction_count = 1320
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 1321
+insn thumb: 0x0000BD80 
+num_insns: 1
+instruction_count = 1322
+insn thumb: 0x00002301 
+num_insns: 0
+instruction_count = 1323
+insn thumb: 0x000073FB 
+num_insns: 1
+instruction_count = 1324
+insn thumb: 0x0000E001 
+num_insns: 2
+instruction_count = 1325
+insn thumb: 0x00007BFB 
+num_insns: 0
+instruction_count = 1326
+insn thumb: 0x00004618 
+num_insns: 1
+instruction_count = 1327
+insn thumb: 0x00003714 
+num_insns: 2
+instruction_count = 1328
+insn thumb: 0x000046BD 
+num_insns: 3
+instruction_count = 1329
+insn thumb: 0x0000BC80 
+num_insns: 4
+instruction_count = 1330
+insn thumb: 0x00004770 
+num_insns: 5
+instruction_count = 1331
+insn thumb: 0x0000E000 
+num_insns: 0
+instruction_count = 1332
+insn thumb: 0x00006D7B 
+num_insns: 0
+instruction_count = 1333
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1334
+insn thumb: 0x0000D11E 
+num_insns: 2
+instruction_count = 1335
+insn thumb: 0x00004815 
+num_insns: 0
+instruction_count = 1336
+insn thumb: 0x0000F7FC 
+instruction count = 1337
+insn thumb 2: 0x0000FC37 *********
+num_insns: 1
+instruction_count = 1338
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1339
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 1340
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1341
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1342
+insn thumb: 0x0000687B 
+num_insns: 4
+instruction_count = 1343
+insn thumb: 0x0000889B 
+num_insns: 5
+instruction_count = 1344
+insn thumb: 0x0000B29B 
+num_insns: 6
+instruction_count = 1345
+insn thumb: 0x0000F3C3 
+instruction count = 1346
+insn thumb 2: 0x00000308 *********
+num_insns: 7
+instruction_count = 1347
+insn thumb: 0x0000B29B 
+num_insns: 8
+instruction_count = 1348
+insn thumb: 0x00004618 
+num_insns: 9
+instruction_count = 1349
+insn thumb: 0x0000370C 
+num_insns: 10
+instruction_count = 1350
+insn thumb: 0x000046BD 
+num_insns: 11
+instruction_count = 1351
+insn thumb: 0x0000BC80 
+num_insns: 12
+instruction_count = 1352
+insn thumb: 0x00004770 
+num_insns: 13
+instruction_count = 1353
+insn thumb: 0x00004603 
+num_insns: 0
+instruction_count = 1354
+insn thumb: 0x0000B2DB 
+num_insns: 1
+instruction_count = 1355
+insn thumb: 0x0000F003 
+instruction count = 1356
+insn thumb 2: 0x0000037F *********
+num_insns: 2
+instruction_count = 1357
+insn thumb: 0x0000F887 
+instruction count = 1358
+insn thumb 2: 0x00003037 *********
+num_insns: 3
+instruction_count = 1359
+insn thumb: 0x0000F897 
+instruction count = 1360
+insn thumb 2: 0x00003037 *********
+num_insns: 4
+instruction_count = 1361
+insn thumb: 0x00004618 
+num_insns: 5
+instruction_count = 1362
+insn thumb: 0x0000F7FA 
+instruction count = 1363
+insn thumb 2: 0x0000FE0B *********
+num_insns: 6
+instruction_count = 1364
+insn thumb: 0x0000B580 
+num_insns: 0
+instruction_count = 1365
+insn thumb: 0x0000B082 
+num_insns: 1
+instruction_count = 1366
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1367
+insn thumb: 0x00004603 
+num_insns: 3
+instruction_count = 1368
+insn thumb: 0x000071FB 
+num_insns: 4
+instruction_count = 1369
+insn thumb: 0x0000BF00 
+num_insns: 5
+instruction_count = 1370
+insn thumb: 0x00002180 
+num_insns: 6
+instruction_count = 1371
+insn thumb: 0x0000480A 
+num_insns: 7
+instruction_count = 1372
+insn thumb: 0x0000F001 
+instruction count = 1373
+insn thumb 2: 0x0000FF47 *********
+num_insns: 8
+instruction_count = 1374
+insn thumb: 0x00004603 
+num_insns: 0
+instruction_count = 1375
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1376
+insn thumb: 0x0000D0F8 
+num_insns: 2
+instruction_count = 1377
+insn thumb: 0x00004A08 
+num_insns: 0
+instruction_count = 1378
+insn thumb: 0x00004B08 
+num_insns: 1
+instruction_count = 1379
+insn thumb: 0x000068DB 
+num_insns: 2
+instruction_count = 1380
+insn thumb: 0x0000F483 
+instruction count = 1381
+insn thumb 2: 0x00005380 *********
+num_insns: 3
+instruction_count = 1382
+insn thumb: 0x000060D3 
+num_insns: 4
+instruction_count = 1383
+insn thumb: 0x000079FB 
+num_insns: 5
+instruction_count = 1384
+insn thumb: 0x0000B29B 
+num_insns: 6
+instruction_count = 1385
+insn thumb: 0x00004619 
+num_insns: 7
+instruction_count = 1386
+insn thumb: 0x00004803 
+num_insns: 8
+instruction_count = 1387
+insn thumb: 0x0000F001 
+instruction count = 1388
+insn thumb 2: 0x0000FDF7 *********
+num_insns: 9
+instruction_count = 1389
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1390
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 1391
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1392
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1393
+insn thumb: 0x0000460B 
+num_insns: 4
+instruction_count = 1394
+insn thumb: 0x0000807B 
+num_insns: 5
+instruction_count = 1395
+insn thumb: 0x0000887B 
+num_insns: 6
+instruction_count = 1396
+insn thumb: 0x0000F3C3 
+instruction count = 1397
+insn thumb 2: 0x00000308 *********
+num_insns: 7
+instruction_count = 1398
+insn thumb: 0x0000B29A 
+num_insns: 8
+instruction_count = 1399
+insn thumb: 0x0000687B 
+num_insns: 9
+instruction_count = 1400
+insn thumb: 0x0000809A 
+num_insns: 10
+instruction_count = 1401
+insn thumb: 0x0000BF00 
+num_insns: 11
+instruction_count = 1402
+insn thumb: 0x0000370C 
+num_insns: 12
+instruction_count = 1403
+insn thumb: 0x000046BD 
+num_insns: 13
+instruction_count = 1404
+insn thumb: 0x0000BC80 
+num_insns: 0
+instruction_count = 1405
+insn thumb: 0x00004770 
+num_insns: 1
+instruction_count = 1406
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 1407
+insn thumb: 0x00003708 
+num_insns: 1
+instruction_count = 1408
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 1409
+insn thumb: 0x0000BD80 
+num_insns: 3
+instruction_count = 1410
+insn thumb: 0x00004400 
+num_insns: 4
+instruction_count = 1411
+insn thumb: 0x00004000 
+num_insns: 5
+instruction_count = 1412
+insn thumb: 0x00001000 
+num_insns: 0
+instruction_count = 1413
+insn thumb: 0x00004001 
+num_insns: 1
+instruction_count = 1414
+insn thumb: 0x0000B580 
+num_insns: 2
+instruction_count = 1415
+insn thumb: 0x0000B09E 
+num_insns: 3
+instruction_count = 1416
+insn thumb: 0x0000AF00 
+num_insns: 4
+instruction_count = 1417
+insn thumb: 0x00006078 
+num_insns: 5
+instruction_count = 1418
+insn thumb: 0x00006039 
+num_insns: 6
+instruction_count = 1419
+insn thumb: 0x00002300 
+num_insns: 7
+instruction_count = 1420
+insn thumb: 0x0000677B 
+num_insns: 8
+instruction_count = 1421
+insn thumb: 0x0000683A 
+num_insns: 9
+instruction_count = 1422
+insn thumb: 0x0000687B 
+num_insns: 10
+instruction_count = 1423
+insn thumb: 0x0000FBB3 
+instruction count = 1424
+insn thumb 2: 0x0000F1F2 *********
+num_insns: 11
+instruction_count = 1425
+insn thumb: 0x0000FB02 
+instruction count = 1426
+insn thumb 2: 0x0000F201 *********
+num_insns: 12
+instruction_count = 1427
+insn thumb: 0x00001A9B 
+num_insns: 13
+instruction_count = 1428
+insn thumb: 0x0000673B 
+num_insns: 14
+instruction_count = 1429
+insn thumb: 0x00006F38 
+num_insns: 15
+instruction_count = 1430
+insn thumb: 0x0000F7FF 
+instruction count = 1431
+insn thumb 2: 0x0000FFB8 *********
+num_insns: 16
+instruction_count = 1432
+insn thumb: 0x0000B480 
+num_insns: 0
+instruction_count = 1433
+insn thumb: 0x0000B083 
+num_insns: 1
+instruction_count = 1434
+insn thumb: 0x0000AF00 
+num_insns: 2
+instruction_count = 1435
+insn thumb: 0x00006078 
+num_insns: 3
+instruction_count = 1436
+insn thumb: 0x0000687B 
+num_insns: 4
+instruction_count = 1437
+insn thumb: 0x00002B09 
+num_insns: 5
+instruction_count = 1438
+insn thumb: 0x0000D804 
+num_insns: 6
+instruction_count = 1439
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 1440
+insn thumb: 0x0000B2DB 
+num_insns: 1
+instruction_count = 1441
+insn thumb: 0x00003337 
+num_insns: 2
+instruction_count = 1442
+insn thumb: 0x0000B2DB 
+num_insns: 3
+instruction_count = 1443
+insn thumb: 0x00004618 
+num_insns: 4
+instruction_count = 1444
+insn thumb: 0x0000370C 
+num_insns: 5
+instruction_count = 1445
+insn thumb: 0x000046BD 
+num_insns: 6
+instruction_count = 1446
+insn thumb: 0x0000BC80 
+num_insns: 7
+instruction_count = 1447
+insn thumb: 0x00004770 
+num_insns: 8
+instruction_count = 1448
+insn thumb: 0x00004603 
+num_insns: 0
+instruction_count = 1449
+insn thumb: 0x00004619 
+num_insns: 1
+instruction_count = 1450
+insn thumb: 0x0000F107 
+instruction count = 1451
+insn thumb 2: 0x0000020C *********
+num_insns: 2
+instruction_count = 1452
+insn thumb: 0x00006F7B 
+num_insns: 3
+instruction_count = 1453
+insn thumb: 0x00004413 
+num_insns: 4
+instruction_count = 1454
+insn thumb: 0x0000460A 
+num_insns: 5
+instruction_count = 1455
+insn thumb: 0x0000701A 
+num_insns: 6
+instruction_count = 1456
+insn thumb: 0x0000683B 
+num_insns: 7
+instruction_count = 1457
+insn thumb: 0x0000687A 
+num_insns: 8
+instruction_count = 1458
+insn thumb: 0x0000FBB2 
+instruction count = 1459
+insn thumb 2: 0x0000F3F3 *********
+num_insns: 9
+instruction_count = 1460
+insn thumb: 0x0000607B 
+num_insns: 10
+instruction_count = 1461
+insn thumb: 0x00006F7B 
+num_insns: 11
+instruction_count = 1462
+insn thumb: 0x00003301 
+num_insns: 12
+instruction_count = 1463
+insn thumb: 0x0000677B 
+num_insns: 13
+instruction_count = 1464
+insn thumb: 0x0000687B 
+num_insns: 14
+instruction_count = 1465
+insn thumb: 0x00002B00 
+num_insns: 15
+instruction_count = 1466
+insn thumb: 0x0000D1E1 
+num_insns: 16
+instruction_count = 1467
+insn thumb: 0x0000683A 
+num_insns: 0
+instruction_count = 1468
+insn thumb: 0x0000687B 
+num_insns: 1
+instruction_count = 1469
+insn thumb: 0x0000FBB3 
+instruction count = 1470
+insn thumb 2: 0x0000F1F2 *********
+num_insns: 2
+instruction_count = 1471
+insn thumb: 0x0000FB02 
+instruction count = 1472
+insn thumb 2: 0x0000F201 *********
+num_insns: 3
+instruction_count = 1473
+insn thumb: 0x00001A9B 
+num_insns: 4
+instruction_count = 1474
+insn thumb: 0x0000673B 
+num_insns: 5
+instruction_count = 1475
+insn thumb: 0x00006F38 
+num_insns: 6
+instruction_count = 1476
+insn thumb: 0x0000F7FF 
+instruction count = 1477
+insn thumb 2: 0x0000FFB8 *********
+num_insns: 7
+instruction_count = 1478
+insn thumb: 0x0000687B 
+num_insns: 0
+instruction_count = 1479
+insn thumb: 0x0000B2DB 
+num_insns: 1
+instruction_count = 1480
+insn thumb: 0x00003330 
+num_insns: 2
+instruction_count = 1481
+insn thumb: 0x0000B2DB 
+num_insns: 3
+instruction_count = 1482
+insn thumb: 0x0000E003 
+num_insns: 4
+instruction_count = 1483
+insn thumb: 0x00004618 
+num_insns: 0
+instruction_count = 1484
+insn thumb: 0x0000370C 
+num_insns: 1
+instruction_count = 1485
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 1486
+insn thumb: 0x0000BC80 
+num_insns: 3
+instruction_count = 1487
+insn thumb: 0x00004770 
+num_insns: 4
+instruction_count = 1488
+insn thumb: 0x0000E014 
+num_insns: 0
+instruction_count = 1489
+insn thumb: 0x00006F7B 
+num_insns: 0
+instruction_count = 1490
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1491
+insn thumb: 0x0000D1E7 
+num_insns: 2
+instruction_count = 1492
+insn thumb: 0x00006F7B 
+num_insns: 0
+instruction_count = 1493
+insn thumb: 0x00003B01 
+num_insns: 1
+instruction_count = 1494
+insn thumb: 0x0000677B 
+num_insns: 2
+instruction_count = 1495
+insn thumb: 0x0000BF00 
+num_insns: 3
+instruction_count = 1496
+insn thumb: 0x00002180 
+num_insns: 4
+instruction_count = 1497
+insn thumb: 0x0000480B 
+num_insns: 5
+instruction_count = 1498
+insn thumb: 0x0000F001 
+instruction count = 1499
+insn thumb 2: 0x0000FF02 *********
+num_insns: 6
+instruction_count = 1500
+insn thumb: 0x00004603 
+num_insns: 0
+instruction_count = 1501
+insn thumb: 0x00002B00 
+num_insns: 1
+instruction_count = 1502
+insn thumb: 0x0000D0F8 
+num_insns: 2
+instruction_count = 1503
+insn thumb: 0x0000F107 
+instruction count = 1504
+insn thumb 2: 0x0000020C *********
+num_insns: 0
+instruction_count = 1505
+insn thumb: 0x00006F7B 
+num_insns: 1
+instruction_count = 1506
+insn thumb: 0x00004413 
+num_insns: 2
+instruction_count = 1507
+insn thumb: 0x0000781B 
+num_insns: 3
+instruction_count = 1508
+insn thumb: 0x0000B29B 
+num_insns: 4
+instruction_count = 1509
+insn thumb: 0x00004619 
+num_insns: 5
+instruction_count = 1510
+insn thumb: 0x00004804 
+num_insns: 6
+instruction_count = 1511
+insn thumb: 0x0000F001 
+instruction count = 1512
+insn thumb 2: 0x0000FDB4 *********
+num_insns: 7
+instruction_count = 1513
+insn thumb: 0x00002180 
+num_insns: 0
+instruction_count = 1514
+insn thumb: 0x0000480B 
+num_insns: 1
+instruction_count = 1515
+insn thumb: 0x0000F001 
+instruction count = 1516
+insn thumb 2: 0x0000FF02 *********
+num_insns: 2
+instruction_count = 1517
+insn thumb: 0x0000BF00 
+num_insns: 0
+instruction_count = 1518
+insn thumb: 0x00003778 
+num_insns: 1
+instruction_count = 1519
+insn thumb: 0x000046BD 
+num_insns: 2
+instruction_count = 1520
+insn thumb: 0x0000BD80 
+num_insns: 3
+instruction_count = 1521/ninsn arm: 0x20005000 -----------------------------------
+num_insns: 0
+instruction_count = 1522
+insn thumb: 0x0000E7FE 
+num_insns: 0

@@ -1,0 +1,1376 @@
+########################################################
+Starting a new simulation at: Sat May 25 20:15:15 2019
+########################################################
+Current time is Sat May 25 20:15:21 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 420, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Sat May 25 20:15:47 2019
+########################################################
+Current time is Sat May 25 20:15:54 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 800, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:01 2019
+
+Iteration Number: 2
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 20, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:08 2019
+
+Iteration Number: 3
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1580, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:15 2019
+
+Iteration Number: 4
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1680, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:22 2019
+
+Iteration Number: 5
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1120, Register: 0
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:29 2019
+
+Iteration Number: 6
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 460, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:36 2019
+
+Iteration Number: 7
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 100, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:43 2019
+
+Iteration Number: 8
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1400, Register: 6
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:50 2019
+
+Iteration Number: 9
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1620, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:16:57 2019
+
+Iteration Number: 10
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1420, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Sat May 25 20:20:48 2019
+########################################################
+Current time is Sat May 25 20:20:55 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 800, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Sat May 25 20:21:33 2019
+########################################################
+Current time is Sat May 25 20:21:40 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 800, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Sat May 25 20:21:46 2019
+########################################################
+Current time is Sat May 25 20:21:53 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 800, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:00 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 20, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:07 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1580, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:15 2019
+
+Iteration Number: 4
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1680, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:22 2019
+
+Iteration Number: 5
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1120, Register: 0
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:29 2019
+
+Iteration Number: 6
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 460, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:36 2019
+
+Iteration Number: 7
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 100, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:43 2019
+
+Iteration Number: 8
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1400, Register: 6
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:50 2019
+
+Iteration Number: 9
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1620, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:22:57 2019
+
+Iteration Number: 10
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1420, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Sat May 25 20:39:49 2019
+########################################################
+Current time is Sat May 25 20:40:00 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 800, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:40:11 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 20, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:40:22 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1580, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:40:33 2019
+
+Iteration Number: 4
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1680, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:40:43 2019
+
+Iteration Number: 5
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1120, Register: 0
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:40:54 2019
+
+Iteration Number: 6
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 460, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:41:05 2019
+
+Iteration Number: 7
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 100, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:41:16 2019
+
+Iteration Number: 8
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1400, Register: 6
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:41:27 2019
+
+Iteration Number: 9
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1620, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Sat May 25 20:41:38 2019
+
+Iteration Number: 10
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1420, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 14:44:31 2019
+########################################################
+Current time is Mon Jun  3 14:44:47 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1400, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 14:44:57 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1010, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 14:45:06 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1790, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:11:39 2019
+########################################################
+Current time is Mon Jun  3 15:11:48 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:11:59 2019
+
+Iteration Number: 2
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1301, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:12:09 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1479, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:12:19 2019
+
+Iteration Number: 4
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1884, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:12:30 2019
+
+Iteration Number: 5
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1856, Register: 0
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:12:41 2019
+
+Iteration Number: 6
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1623, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:12:50 2019
+
+Iteration Number: 7
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1905, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:13:00 2019
+
+Iteration Number: 8
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1270, Register: 6
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:13:11 2019
+
+Iteration Number: 9
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1981, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:13:21 2019
+
+Iteration Number: 10
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1371, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:22:33 2019
+########################################################
+Current time is Mon Jun  3 15:22:43 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:28:44 2019
+########################################################
+Current time is Mon Jun  3 15:28:54 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:03 2019
+
+Iteration Number: 2
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1301, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:13 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1479, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:23 2019
+
+Iteration Number: 4
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1884, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:33 2019
+
+Iteration Number: 5
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1856, Register: 0
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:43 2019
+
+Iteration Number: 6
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1623, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:53 2019
+
+Iteration Number: 7
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1905, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:03 2019
+
+Iteration Number: 8
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1270, Register: 6
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:12 2019
+
+Iteration Number: 9
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1981, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 16:24:24 2019
+########################################################
+Current time is Mon Jun  3 16:24:34 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:16:10 2019
+########################################################
+Current time is Mon Jun  3 17:16:20 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:16:35 2019
+########################################################
+Current time is Mon Jun  3 17:16:47 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:17:12 2019
+########################################################
+Current time is Mon Jun  3 17:17:23 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:23:09 2019
+########################################################
+Current time is Mon Jun  3 17:23:18 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 1240, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:23:40 2019
+########################################################
+Current time is Mon Jun  3 17:23:49 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:25:47 2019
+########################################################
+Current time is Mon Jun  3 17:25:55 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:32:00 2019
+########################################################
+Current time is Mon Jun  3 17:32:08 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:32:26 2019
+########################################################
+Current time is Mon Jun  3 17:32:35 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 17:32:43 2019
+
+Iteration Number: 2
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 18840, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 17:32:52 2019
+
+Iteration Number: 3
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 19050, Register: 1
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:38:14 2019
+########################################################
+Current time is Mon Jun  3 17:38:27 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 17:38:36 2019
+
+Iteration Number: 2
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 18840, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 17:38:45 2019
+
+Iteration Number: 3
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 19050, Register: 1
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:38:58 2019
+########################################################
+Current time is Mon Jun  3 17:39:12 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:41:39 2019
+########################################################
+Current time is Mon Jun  3 17:41:52 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 17:42:01 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 18840, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:42:19 2019
+########################################################
+Current time is Mon Jun  3 17:42:28 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:42:42 2019
+########################################################
+Current time is Mon Jun  3 17:42:51 2019
+
+Iteration Number: 1
+Program Terminated
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 17:43:06 2019
+########################################################
+Current time is Mon Jun  3 17:43:16 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 17:43:26 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 18840, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 17:43:35 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 19050, Register: 1
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 18:00:43 2019
+########################################################
+Current time is Mon Jun  3 18:00:53 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 12400, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:21:37 2019
+########################################################
+Current time is Mon Jun  3 15:21:48 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1156, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:21:56 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1575, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:04 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1589, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:12 2019
+
+Iteration Number: 4
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1241, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:19 2019
+
+Iteration Number: 5
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1388, Register: 13
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:27 2019
+
+Iteration Number: 6
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1195, Register: 13
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:35 2019
+
+Iteration Number: 7
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1201, Register: 6
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:43 2019
+
+Iteration Number: 8
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1482, Register: 13
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:50 2019
+
+Iteration Number: 9
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1199, Register: 2
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:22:58 2019
+
+Iteration Number: 10
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1401, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:23:06 2019
+
+Iteration Number: 11
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1029, Register: 14
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:23:14 2019
+
+Iteration Number: 12
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1341, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:23:21 2019
+
+Iteration Number: 13
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1096, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:23:29 2019
+
+Iteration Number: 14
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1313, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:23:37 2019
+
+Iteration Number: 15
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1201, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:23:45 2019
+
+Iteration Number: 16
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1098, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:23:52 2019
+
+Iteration Number: 17
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1449, Register: 10
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:24:00 2019
+
+Iteration Number: 18
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1218, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:24:08 2019
+
+Iteration Number: 19
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1067, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:24:16 2019
+
+Iteration Number: 20
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1590, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:28:23 2019
+########################################################
+Current time is Mon Jun  3 15:28:31 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1308, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:28:38 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1598, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:28:46 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1608, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:28:54 2019
+
+Iteration Number: 4
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1367, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:02 2019
+
+Iteration Number: 5
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1469, Register: 13
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:09 2019
+
+Iteration Number: 6
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1335, Register: 13
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:17 2019
+
+Iteration Number: 7
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1339, Register: 6
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:25 2019
+
+Iteration Number: 8
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1534, Register: 13
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:33 2019
+
+Iteration Number: 9
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1338, Register: 2
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:40 2019
+
+Iteration Number: 10
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1478, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:48 2019
+
+Iteration Number: 11
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 14
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:29:56 2019
+
+Iteration Number: 12
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1436, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:04 2019
+
+Iteration Number: 13
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1266, Register: 12
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:12 2019
+
+Iteration Number: 14
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1416, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:19 2019
+
+Iteration Number: 15
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1339, Register: 5
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:27 2019
+
+Iteration Number: 16
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1268, Register: 7
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:35 2019
+
+Iteration Number: 17
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1511, Register: 10
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:43 2019
+
+Iteration Number: 18
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1351, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:50 2019
+
+Iteration Number: 19
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1246, Register: 8
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:30:58 2019
+
+Iteration Number: 20
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1609, Register: 3
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:31:40 2019
+########################################################
+Current time is Mon Jun  3 15:31:48 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 10000, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:44:16 2019
+########################################################
+Current time is Mon Jun  3 15:44:24 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 10000, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:45:48 2019
+########################################################
+Current time is Mon Jun  3 15:45:57 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 10000, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:48:25 2019
+########################################################
+Current time is Mon Jun  3 15:48:33 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:48:41 2019
+
+Iteration Number: 2
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1542, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:48:49 2019
+
+Iteration Number: 3
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1553, Register: 1
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:53:22 2019
+########################################################
+Current time is Mon Jun  3 15:53:30 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:53:38 2019
+
+Iteration Number: 2
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1542, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:53:46 2019
+
+Iteration Number: 3
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1553, Register: 1
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:53:55 2019
+########################################################
+Current time is Mon Jun  3 15:54:03 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:54:22 2019
+########################################################
+Current time is Mon Jun  3 15:54:30 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:54:50 2019
+########################################################
+Current time is Mon Jun  3 15:54:58 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:55:06 2019
+
+Iteration Number: 2
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1542, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:55:29 2019
+########################################################
+Current time is Mon Jun  3 15:55:37 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 15:59:25 2019
+########################################################
+Current time is Mon Jun  3 15:59:34 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:59:42 2019
+
+Iteration Number: 2
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1542, Register: 12
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 15:59:50 2019
+
+Iteration Number: 3
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1553, Register: 1
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 16:02:06 2019
+########################################################
+Current time is Mon Jun  3 16:02:18 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 16:05:36 2019
+########################################################
+Current time is Mon Jun  3 16:05:43 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction all zero
+--------------------------------------------------------------
+Current time is Mon Jun  3 16:05:51 2019
+
+Iteration Number: 2
+Got SUCCESS
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1542, Register: 12
+Smartlock: A
+Attack Type: Instruction all ones
+--------------------------------------------------------------
+Current time is Mon Jun  3 16:05:59 2019
+
+Iteration Number: 3
+Got SUCCESS
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1553, Register: 1
+Smartlock: B
+Attack Type: Instruction   random
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 16:07:26 2019
+########################################################
+Current time is Mon Jun  3 16:07:34 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction all zero
+--------------------------------------------------------------
+Current time is Mon Jun  3 16:07:42 2019
+
+Iteration Number: 2
+Got SUCCESS
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1542, Register: 12
+Smartlock: A
+Attack Type: Instruction all ones
+--------------------------------------------------------------
+Current time is Mon Jun  3 16:07:49 2019
+
+Iteration Number: 3
+Got SUCCESS
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1553, Register: 1
+Smartlock: B
+Attack Type: Instruction   random
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 16:08:05 2019
+########################################################
+Current time is Mon Jun  3 16:08:13 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction all zero
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 16:12:02 2019
+########################################################
+Current time is Mon Jun  3 16:12:10 2019
+
+Iteration Number: 1
+Got SUCCESS
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction all zero
+--------------------------------------------------------------
+########################################################
+Starting a new simulation at: Mon Jun  3 19:16:01 2019
+########################################################
+Current time is Mon Jun  3 19:16:20 2019
+
+Iteration Number: 1
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1220, Register: 8
+Smartlock: B
+Attack Type: Instruction all zero
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:16:30 2019
+
+Iteration Number: 2
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1542, Register: 12
+Smartlock: A
+Attack Type: Instruction all ones
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:16:40 2019
+
+Iteration Number: 3
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1553, Register: 1
+Smartlock: B
+Attack Type: Instruction   random
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:16:50 2019
+
+Iteration Number: 4
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1285, Register: 3
+Smartlock: A
+Attack Type: Random  PC  addition
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:17:00 2019
+
+Iteration Number: 5
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1399, Register: 13
+Smartlock: B
+Attack Type: Instruction bit flip
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:17:11 2019
+
+Iteration Number: 6
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1250, Register: 13
+Smartlock: A
+Attack Type: Instruction all zero
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:17:22 2019
+
+Iteration Number: 7
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1255, Register: 6
+Smartlock: B
+Attack Type: Instruction all ones
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:17:31 2019
+
+Iteration Number: 8
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1471, Register: 13
+Smartlock: A
+Attack Type: Instruction   random
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:17:41 2019
+
+Iteration Number: 9
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1253, Register: 2
+Smartlock: B
+Attack Type: Random  PC  addition
+--------------------------------------------------------------
+Current time is Mon Jun  3 19:17:51 2019
+
+Iteration Number: 10
+Got FAIL
+Attack Profile - Seed: 100, Cycle Count: 1409, Register: 1
+Smartlock: A
+Attack Type: Instruction bit flip
+--------------------------------------------------------------

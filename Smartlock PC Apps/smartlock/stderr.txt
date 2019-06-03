@@ -1,0 +1,6 @@
+qemu: terminating on signal 15 from pid 4081
+make: [smartlock_a_QEMURUN_PTY] Error 1 (ignored)
+
+(process:4141): GLib-WARNING **: 19:17:44.173: ../../../../glib/gmem.c:489: custom memory allocation vtable not supported
+char device redirected to /dev/pts/2 (label serial0)
+qemu: terminating on signal 15 from pid 4149
